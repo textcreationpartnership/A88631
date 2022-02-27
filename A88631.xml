@@ -1,0 +1,852 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyall sacrifice presented in the lives and deaths of those two eminent-heroick patternes, for valour, discipline, and fidelity; the generally beloved and bemoaned, Sir Charls Lucas, and Sir George Lisle, knights. Being both shot to death at Colchester, five houres after the surrender.</title>
+            <author>Philocrates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88631</idno>
+            <idno type="STC">Wing L3364</idno>
+            <idno type="STC">Thomason E1202_2</idno>
+            <idno type="STC">ESTC R202768</idno>
+            <idno type="EEBO-CITATION">99862950</idno>
+            <idno type="PROQUEST">99862950</idno>
+            <idno type="VID">115130</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115130)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1202[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyall sacrifice presented in the lives and deaths of those two eminent-heroick patternes, for valour, discipline, and fidelity; the generally beloved and bemoaned, Sir Charls Lucas, and Sir George Lisle, knights. Being both shot to death at Colchester, five houres after the surrender.</title>
+                  <author>Philocrates.</author>
+               </titleStmt>
+               <extent>[20], 96, [16] p. : ill. (metal cut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Philocrates.</note>
+                  <note>The words "Sir Charls .. Lisle," are bracketed together on the title page.</note>
+                  <note>With six final contents leaves.</note>
+                  <note>Annotation on Thomason copy: "Nou 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Lisle, George, --  Sir, d. 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115130:1" rendition="simple:additions"/>
+            <p>The Loyall Sacrifice: <hi>PRESENTED</hi> In the Lives and Deaths of thoſe two Eminent-Heroick Patternes,</p>
+            <p>For <hi>Valour, Diſcipline,</hi> and Fidelity; The generally belo<g ref="char:EOLhyphen"/>ved and bemoaned,</p>
+            <p>Sir CHARLS LUCAS, <hi>And</hi> Sir GEORGE LISLE, <hi>Knights.</hi>
+            </p>
+            <p>Being both ſhot to death at <hi>Colcheſter,</hi> Five houres after the Surrender.</p>
+            <q>
+               <bibl>SEN:</bibl>
+               <l>—Noſcere hoc primùm decet</l>
+               <l>Quid facere victor debet, quid victus pati.</l>
+            </q>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:115130:2"/>
+            <p>
+               <figure>
+                  <head>THE LOYALL SACRIFICE.</head>
+                  <sp>
+                     <p>Shoot Rebells.</p>
+                  </sp>
+                  <sp>
+                     <l>Your Shott, your ſhame:</l>
+                     <l>Our fall, our fame.</l>
+                  </sp>
+                  <figDesc>the deaths of Sir Charles Lucas and Sir George Lisle by Parliamentarians with muskets</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:115130:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115130:3"/>
+            <pb facs="tcp:115130:3"/>
+            <head>To the moſt Illuſtrious, <hi>CHARLES,</hi> PRINCE of WALES.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ere is preſen<g ref="char:EOLhyphen"/>ted to your <hi>HIGH<g ref="char:EOLhyphen"/>NESSE,</hi> in a very <hi>ſmall Body,</hi> an <hi>ample Volume</hi> of <hi>Loyalty.</hi> Two in<g ref="char:EOLhyphen"/>comparable
+<pb facs="tcp:115130:4"/>patternes for Valour, Diſcipline and fidelity. Two who beſtowed their choiceſt indeavours in the Ser<g ref="char:EOLhyphen"/>vice of His <hi>Sacred Majeſty:</hi> and <hi>Sacri<g ref="char:EOLhyphen"/>ficed</hi> their lives to con<g ref="char:EOLhyphen"/>firme their <hi>conſtancy.</hi> High were they ever in the eſteeme of your moſt <hi>Royall Father.</hi> Which makes this your moſt <hi>humble Servant</hi> infi<g ref="char:EOLhyphen"/>nitely
+<pb facs="tcp:115130:4"/>confident, that this <hi>Memoriall</hi> of two ſuch <hi>abſolute ſpirits,</hi> cannot chuſe but receive a gratious acceptance from His <hi>Son.</hi>
+            </p>
+            <p>Jt is ſaid of <hi>Darius,</hi> that cutting up a <hi>Pomegranat,</hi> he was asked by one, with whom (though with a well be<g ref="char:EOLhyphen"/>ſeeming reſervancy of State) he was uſually familiar; <hi>what thing
+<pb facs="tcp:115130:5"/>he would wiſh in the whole world, that might vye in number with thoſe graines or kernels in that</hi> fruit? <hi>O,</hi> quoth he, <hi>of Zo<g ref="char:EOLhyphen"/>pyrus's!</hi> Now this <hi>Zopyrus</hi> was ſuch a faithfull Loyall Sub<g ref="char:EOLhyphen"/>ject, as he had ſuffered himſelf to be pittifully disfigured to improve his Commands, and make way for his Victo<g ref="char:EOLhyphen"/>ries.
+<pb facs="tcp:115130:5"/>May your <hi>Gra<g ref="char:EOLhyphen"/>ces Quiver</hi> in the ma<g ref="char:EOLhyphen"/>nagement of your moſt <hi>Princely Affaires</hi> be full of them; that <hi>Se<g ref="char:EOLhyphen"/>dition</hi> may become a <hi>ſtranger</hi> to our King<g ref="char:EOLhyphen"/>dom; that your <hi>Crown,</hi> in the future fruition of it, may <hi>flouriſh:</hi> and <hi>ENGLAND,</hi> now a ſpectacle of miſery, be<g ref="char:EOLhyphen"/>come an <hi>object</hi> of <hi>emu<g ref="char:EOLhyphen"/>lation</hi> to all <hi>forraine
+<pb facs="tcp:115130:6"/>States</hi> in the admirati<g ref="char:EOLhyphen"/>on of her glory. This is, and ſhall be ever the conſtant and inceſſant prayer of</p>
+            <closer>
+               <signed>Your moſt humble and Loyally-obliged Servant; PHILOCRATES.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115130:6"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome Elegies (Can<g ref="char:EOLhyphen"/>did Reader) with other indiſpoſed pie<g ref="char:EOLhyphen"/>ces, have been lately publiſhed touching this Subject. Whereas, here is pre<g ref="char:EOLhyphen"/>ſented to thy view the whole <hi>Body</hi> of this <hi>Tragick</hi>
+               <note n="†" place="bottom">An ampler diſcourſe upon the Argu<g ref="char:EOLhyphen"/>ment may, perchance, come ſhortly to light: meane time, receive this Abſtract of the whole, being with that preſpicuity and propriety contracted; as nothing may be to informe your knowledge, with more cleareneſſe preſented. Rendring a brief but exact Account of all their actions, mo<g ref="char:EOLhyphen"/>tions and Ingagements: omitting onely (out of the <hi>Authors</hi> zeale to a choice re<g ref="char:EOLhyphen"/>ſerve of <hi>City-Saints</hi>) the difficulty of their paſſage over the River, in their remove from <hi>KENT</hi> to <hi>ESSEX;</hi> occaſio<g ref="char:EOLhyphen"/>ned by that peremptory deniall of their Marching through the <hi>City.</hi> Which cur<g ref="char:EOLhyphen"/>teſie the <hi>Army</hi> tooke ſo gratefully, as no doubt but within few weekes They meane to requite it, in their entertainment by the City. Souldiers when they have no Foes; to keepe their hands in ure, muſt fight with their Friends.</note> 
+               <hi>Story</hi> limned to life. The <hi>LOYALL SACRI<g ref="char:EOLhyphen"/>FICE</hi> of two Gentlemen of
+<pb facs="tcp:115130:7"/>eminent ranke and quality. Faith<g ref="char:EOLhyphen"/>full Servants to a diſtreſſed Maſter. Such, as never appeared nor ap<g ref="char:EOLhyphen"/>proved themſelves more, then when His neceſſities importun'd them moſt; nor at any time more <hi>active,</hi> then when hopes of rewards preſented then leaſt. You ſhall ſee them in their <hi>Educations, Actions,</hi> and <hi>Deaths.</hi> Where, in the <hi>firſt</hi> you may find them full of promiſing hopes; In the <hi>ſecond,</hi> variety of gallant attempts: And in the <hi>laſt,</hi> their whole worke crowned with a glorious Evening. Which <hi>Taske</hi> was principally undertaken for our
+<pb facs="tcp:115130:7"/>
+               <hi>Nationall Vindication;</hi> that ſuch Forraigne Countries as in theſe our ſad ſeditious times, where <hi>Diviſi<g ref="char:EOLhyphen"/>on</hi> is the onely <hi>Muſicall note</hi> that ſounds harmoniouſly in the eares of our <hi>Zimries:</hi> have throwne aſperſi<g ref="char:EOLhyphen"/>ons on our <hi>Nation</hi> of being ſo <hi>uni<g ref="char:EOLhyphen"/>verſally</hi> diſloyall; may by the Por<g ref="char:EOLhyphen"/>trait or draught of theſe, ingenuouſ<g ref="char:EOLhyphen"/>ly confeſſe, that <hi>ENGLAND</hi> brings forth <hi>Ayries</hi> of heroick-Loyall ſpirits as well as of inferiour Birds of prey.</p>
+            <p>For there is not that <hi>State</hi> nor <hi>Age</hi> that can produce <hi>two Perſons</hi> for action more daring; nor in the carriage of their deſignes more diſ<g ref="char:EOLhyphen"/>cerning: nor in both more Loally-concluding. It were then to be wiſh<g ref="char:EOLhyphen"/>ed that thoſe who were Authors or Actors in their fall; would fall in<g ref="char:EOLhyphen"/>to a due conſideration of their owne deplorable condition: that their reflexe upon Their worth may worke in them a remorce for their injuriouſly-inflicted wrath:
+<pb facs="tcp:115130:8"/>to which as <hi>deſire</hi> of <hi>revenge</hi> and <hi>thirſt</hi> after blood gave heat; ſo <hi>in<g ref="char:EOLhyphen"/>ceſſant rivolets</hi> of <hi>penitentiall teares</hi> can only coole: Which done, <hi>charity</hi> will wiſh that the infamy of that fact may be in the ſame capacity of dying; as the perpetuity of theſe <hi>Royaliſts</hi> fame is with all ſucceeding poſterities of living.</p>
+            <closer>
+               <signed>Your affectionate <hi>PHILOCRATES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:115130:8"/>
+            <head>In Honorem Doctiſſimi Authoris.</head>
+            <l>VVHy <hi>Stationer?</hi> do'ſt thinke that I can <hi>Paint</hi>
+            </l>
+            <l>The <hi>Intellect?</hi> Or <hi>Beauty</hi> of a <hi>Saint?</hi>
+            </l>
+            <l>Or <hi>adde</hi> more <hi>Luſtre</hi> to the <hi>Daie's-Bright-Eye?</hi>
+            </l>
+            <l>Or may I Circumſcribe <hi>Eternitie?</hi>
+            </l>
+            <l>Then bid me <hi>Mount,</hi> and <hi>Penetrate</hi> the <hi>Skies,</hi>
+            </l>
+            <l>And not <hi>Commend,</hi> but <hi>ſee</hi> the <hi>Sacrifice.</hi>
+            </l>
+            <l>For, 'tis as poſſible to <hi>view</hi> their <hi>Glories,</hi>
+            </l>
+            <l>As to <hi>Out ſtrip</hi> the <hi>Author</hi> of their <hi>Stories:</hi>
+            </l>
+            <l>And who ſo ſtrives to ſet his <hi>Labours</hi> forth,</l>
+            <l>
+               <hi>Contributes</hi> not, but <hi>'bateth</hi> of his <hi>worth.</hi>
+            </l>
+            <l>But if thou do'ſt deſire the <hi>Book</hi> ſhould <hi>Sell,</hi>
+            </l>
+            <l>Fix thereunto his <hi>Name;</hi> and then it will.</l>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:115130:9"/>
+            <head>To his much valued Friend the learned Author.</head>
+            <l>THoſe who as guilty dy'd, do here ariſe</l>
+            <l>(From inn'cent ſuffering) a true <hi>Sa<g ref="char:EOLhyphen"/>crifice.</hi>
+            </l>
+            <l>[Victims and Martyrs both, &amp; yet we cry</l>
+            <l>'Gainſt Superſtition, and I dolatry.]</l>
+            <l>Whoſe ſparkes from th Altar fled to Hea<g ref="char:EOLhyphen"/>v'n, and there</l>
+            <l>Fram'd a new <hi>Gemini</hi> in the Regall ſphere,</l>
+            <l>Are yet more bleſt, 'cauſe Thou their Va<g ref="char:EOLhyphen"/>lour ſings,</l>
+            <l>And ſound'ſt their glories, on Heroick ſtrings.</l>
+            <l>Making their Flames e'relaſting, their per<g ref="char:EOLhyphen"/>fume</l>
+            <l>Reach to Eternity; ne're to conſume</l>
+            <l>With Time or Tempeſt. Thy eſſentiall I'en,</l>
+            <l>To a new life reſtores the dead agen.</l>
+            <l>That Miracles were not to th' Primitive Age</l>
+            <l>Confin'd, 'tis plaine; thou ſhew'ſt new in each Page.</l>
+            <l>What Nature could not lend, and Fate de<g ref="char:EOLhyphen"/>nies,</l>
+            <l>Thou do'ſt beſtow; [their Perpetuities.]</l>
+            <l>And what our Choll'rick Chimiſts did Calcine</l>
+            <pb facs="tcp:115130:9"/>
+            <l>To Aſhes, in their native Iuſtres ſhine</l>
+            <l>By th' heate thou here apply'ſt; it does re<g ref="char:EOLhyphen"/>ſtore,</l>
+            <l>All that was Nobly good in them before.</l>
+            <l>And this ſo full, as if th'adſt walkt about</l>
+            <l>With eithers <hi>Genius,</hi> to collect them out.</l>
+            <l>Briefly: their Loyalty could never live</l>
+            <l>Shrin'd in more glory, then thy Quill does give.</l>
+            <l>Which whoſo views, may ſmile with pitty<g ref="char:EOLhyphen"/>ing ſcorne</l>
+            <l>To find all ancient ſuff'ers rather torne</l>
+            <l>A ſecond time in <hi>Legends,</hi> ſince they there</l>
+            <l>Are lamely drawne: whilſt thou (a Ma<g ref="char:EOLhyphen"/>ſter) here</l>
+            <l>Giv'ſt Beauty and proportion its full due,</l>
+            <l>And Crownes thoſe Saints which hence bleſt Martyrs flew.</l>
+            <closer>
+               <signed>E. A.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:115130:10"/>
+            <head>To his much honoured friend the Author.</head>
+            <l>VVHoſe <hi>quill</hi> but thine ſo lively could expreſſe</l>
+            <l>The <hi>Valiant acts</hi> of <hi>Lucas</hi> and of <hi>Liſle?</hi>
+            </l>
+            <l>Whoſe <hi>fame</hi> ſurmounts the <hi>Stars,</hi> and as I gueſſe</l>
+            <l>Eterniz'd are by thy <hi>life-giving ſtile.</hi>
+            </l>
+            <l>Both <hi>Valiant Knights!</hi> what pitty 'tis they die,</l>
+            <l>And in cold blood by <hi>baſe ignoable foe:</hi>
+            </l>
+            <l>Who oft made <hi>death</hi> to ſtart and turne awry</l>
+            <l>In many a <hi>bloody fight</hi> and <hi>duell</hi> too.</l>
+            <l>Their <hi>Births,</hi> their <hi>Valiant acts</hi> their <hi>Loyalty,</hi>
+            </l>
+            <l>Their <hi>Deaths</hi> (impos'd by <hi>Villaines, cowards</hi> baſe,</l>
+            <l>Who from them once receiv'd in curteſie</l>
+            <l>A life of Almes, when in a quaking caſe)</l>
+            <l>Are to the life expreſt in this thy <hi>Booke:</hi>
+            </l>
+            <l>
+               <hi>A learned piece;</hi> ſtrange kind of <hi>Chymiſtry,</hi>
+            </l>
+            <l>As all men muſt confeſſe, who thereon looke;</l>
+            <l>For't makes the <hi>dead to live</hi> eternally.</l>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+            <pb facs="tcp:115130:10"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115130:11"/>
+            <pb n="1" facs="tcp:115130:11"/>
+            <head>
+               <hi>THE</hi> Loyall Sacrifice, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Oble actions ha<g ref="char:EOLhyphen"/>ving relation to perſons of emi<g ref="char:EOLhyphen"/>nent quality, have been ever memo<g ref="char:EOLhyphen"/>rable to Poſterity. Amongſt which, none more re<g ref="char:EOLhyphen"/>markable then ſuch as have borne the face of <hi>Loyaltie,</hi> and expreſſed their true native luſtre in defence of the juſt Privileges of their Coun<g ref="char:EOLhyphen"/>try, and conſervation of a<note n="*" place="bottom">Viget. de mil. diſcipl. l. 2. c. 4. Guic. in Hiſt. l. 1. c. 3. Polit. de regim. Princ. l. 3. c. 5. Geſner. de jure regal. Cent. 4. c. 7. Riv. de Ord. Princip. ſect. 2. Arnob. de Magiſt. Civil. l. 6. Lampſach. de ſtat. Monarch. &amp; tit. Imper. ſect. 3. parag. 2. Owin. in Anti-Parae.</note> Monar<g ref="char:EOLhyphen"/>chicall Soveraignty.</p>
+            <pb n="2" facs="tcp:115130:12"/>
+            <p>Many, indeed, and thoſe ſingular Heroick Spirits, (whoſe names are to this day recorded in the Annals of Fame) doe our ancient Hiſtori<g ref="char:EOLhyphen"/>ans preſent unto us; who have re<g ref="char:EOLhyphen"/>ceived no other guerdon then <hi>In<g ref="char:EOLhyphen"/>gratitude,</hi> from thoſe parts where they have beſt deſerved. <hi>Carthage</hi> may ſatisfie you with an <hi>Annibal; Rome</hi> with an <hi>African; Athens</hi> with a <hi>Phocion.</hi> Notwithſtanding all this, the memory of their ſurviving acti<g ref="char:EOLhyphen"/>ons begot ſuch a glorious emula<g ref="char:EOLhyphen"/>tion in their Succeſſors, as that un<g ref="char:EOLhyphen"/>thankfulnes their Countries ſhew'd unto them: or aſperſions which im<g ref="char:EOLhyphen"/>meriting ſpirits darted on them, even redounded more to their ho<g ref="char:EOLhyphen"/>nour, then if they had never ſuffered under the cenſure of a groundleſſe popular opinion, or been cruſh'd by the votes of ſuch <hi>State-commanding Imperialiſts,</hi> who maligned their riſing. I ſhall not labour to make any large Porch to my <hi>Mindian</hi> building; leſt ſome <hi>Critick</hi> tax me,
+<pb n="3" facs="tcp:115130:12"/>as ſometimes that <hi>Cynick</hi> did, that the <hi>City</hi> might runne out at the <hi>Gate.</hi>
+            </p>
+            <p>We are here to preſent unto your view and un-intereſſed judge<g ref="char:EOLhyphen"/>ment, equally poized to their me<g ref="char:EOLhyphen"/>rits, <hi>perſons</hi> of <hi>quality,</hi> and <hi>patterns</hi> of <hi>Loyaltie,</hi> who have acted their parts bravely upon the <hi>Theatre</hi> of <hi>Honour:</hi> whoſe <hi>Names,</hi> though the memories of ſome men be apt to freeze in theſe diſtemper'd times, ſhall like freſh and fragrant <hi>Odours</hi> breathe ſweetneſſe in the noſthrills of Thoſe, who hold <hi>Fidelity</hi> to be the beſt <hi>Cognizance</hi> for the <hi>Coat</hi> of a <hi>Subject.</hi> You cannot chuſe but collect where I am like to lay my <hi>Scene,</hi> before I unfold my <hi>Story. COLCHESTER</hi> muſt be the place; then which, none more me<g ref="char:EOLhyphen"/>morable for continuance of a Siege above expectance; nor more gal<g ref="char:EOLhyphen"/>lant in oppoſing of a <hi>powerfull Foe</hi> with a conſtant and cheerfull re<g ref="char:EOLhyphen"/>ſiſtance.</p>
+            <pb n="4" facs="tcp:115130:13"/>
+            <p>During which Siege, it is incre<g ref="char:EOLhyphen"/>dible, in what a prudential way and forme of Diſcipline, thoſe who were deſigned Commanders and Managers of this weighty action, bore themſelves not onely in ani<g ref="char:EOLhyphen"/>mating thoſe who were for them, but ingratiating thoſe (and that in a generous and gracefull poſture) of whoſe affections they ſtood doubtfull. But to omit the relation of theſe particulars which deſerve approvement and invitation from thoſe who ſtand ingaged in actions of like quality: We will make it our work to acquaint you more punctually with the deſcent, breed<g ref="char:EOLhyphen"/>ing, and condition of theſe eminent Gentlemen, who cloſed the ſundry paſſages of their loyall lives with a glorious Evening: by <hi>ſacrificing</hi> their blood for the honour of their <hi>Soveraigne:</hi> and eaſing their op<g ref="char:EOLhyphen"/>preſſed Country of an inſupporta<g ref="char:EOLhyphen"/>ble tyrannick burden.</p>
+            <p>Firſt then, for the Family of
+<pb n="5" facs="tcp:115130:13"/>Sir CHARLES LUCAS; none that knowes it can beſtow any o<g ref="char:EOLhyphen"/>ther ſtyle upon it then of lineall worth and Antiquity: A <hi>Stemme</hi> from whence ſprung many emment <hi>Sciens,</hi> uſeful Inſtruments to their State &amp; Country. Amongſt which,<note n="*" place="bottom">Not to omit that nobly-accompliſhed, and deſervingly honoured, the Lo: <hi>Lucas,</hi> his Brother, a Gentleman ſingularly giſted in all ſutable Elements of knowledge: together with Sir <hi>GERVAS LUCAS,</hi> a valiant and loyal Commander: (by which notion of Loyaltie, true valour is juſtly dignified, and from perfidious raſhneſſe diſtinguiſhed) Sometimes Governour of <hi>BELVOIR</hi> Caſtle.</note> this <hi>Noble Gentleman</hi> confers ſuch an additament upon it, as the loyalty and memory of his Perſon ſhall to ſuccee ding times highly im<g ref="char:EOLhyphen"/>prove it. For his <hi>Education,</hi> it was <hi>generous,</hi> having his youth ſufficient<g ref="char:EOLhyphen"/>ly ſeaſoned in principles of know<g ref="char:EOLhyphen"/>ledge, humane and divine learning, his Manhood for Diſcipline in the Field. He was ever of an active diſ<g ref="char:EOLhyphen"/>poſition,
+<pb n="6" facs="tcp:115130:14"/>accompanyed with a re<g ref="char:EOLhyphen"/>ſolute ſpirit, and a ſutable diſcretion to manage it.<note n="*" place="bottom"> Albeit I am not ignorant how rigid and ſevere Commanders be commonly leſſe beloved by their Souldiers, then thoſe who are of more indulgent tempers.</note> Strict in his Com<g ref="char:EOLhyphen"/>mands without a ſupercilious ſeve<g ref="char:EOLhyphen"/>rity, though ſome herein have tax'd him too cenſoriouſly. Free in his re<g ref="char:EOLhyphen"/>wards to perſons of deſert and qua<g ref="char:EOLhyphen"/>lity. Since the firſt beginning of theſe diſtractions, all his Expreſſes with what company ſoever he conſorted, evermore tended to the advance<g ref="char:EOLhyphen"/>ment of <hi>Loyaltie;</hi> how odious &amp; un<g ref="char:EOLhyphen"/>juſtifiable a thing it was to lift up an hand againſt the power of Sove<g ref="char:EOLhyphen"/>raignty, under what plauſive pre<g ref="char:EOLhyphen"/>tence or colour ſoever, that adulte<g ref="char:EOLhyphen"/>rate face of <hi>Treaſon</hi> were diſgui<g ref="char:EOLhyphen"/>ſed: being uſually knowne to de<g ref="char:EOLhyphen"/>liver himſelfe in theſe words, <hi>That he preferred the ſtyle of Loyaltie, be<g ref="char:EOLhyphen"/>fore any dignity that earth could con<g ref="char:EOLhyphen"/>fer upon him.</hi> In his <hi>Society,</hi> he was
+<pb n="7" facs="tcp:115130:14"/>affable and pleaſant; In his <hi>Charge,</hi> ſerious and vigilant: remiſſe in no<g ref="char:EOLhyphen"/>thing that might any way improve or expedite his diſpatch in affaires of Government. Thoſe his ſundry Fields, Martiall exploits, and brave adventures wherein he was ever perſonally engaged, and wherein he uſually appeared (as was generally obſerved) in the Head of the Army, were needleſſe here to recount.<note n="*" place="bottom">Reſerving them for a more proper place in our diſcourſe hereafter.</note> As his valour was well knowne, ſo was his native candour and clemencie no leſſe approv'd by all ſuch as in the cloſe of his Conqueſt ſubmitted themſelves to his mercy. So as, in this particular we may truely con<g ref="char:EOLhyphen"/>clude, That during all his time of Service, he was ever ready to afford what himſelfe could not receive, <hi>Free-quarter:</hi> no, nor ſo much as one dayes Reprieve for his better preparation againſt his laſt voy<g ref="char:EOLhyphen"/>age.
+<pb n="8" facs="tcp:115130:15"/>This we purpoſely here have touch<g ref="char:EOLhyphen"/>ed, to vindicate his clear and Noble temper, from the injurious cenſure of thoſe, who in the freedom of their report taxe him for being too violent and implacable in this kind: Whereas that man breaths not who can juſtly accuſe him in the whole current of his actions or Com<g ref="char:EOLhyphen"/>mands, that he ever lay his impetu<g ref="char:EOLhyphen"/>ous hand upon a ſubmiſſive Captive in <hi>cold blood:</hi> or ever ſuffered any bloud to be <hi>ſpilt,</hi> which he might with honour, or without prejudice to his Commands, <hi>ſpare.</hi> But theſe <hi>Critick Spirits,</hi> who are ſo apt to cenſure and traduce the cleareſt Actions of honour, may be properly compared to the <hi>Cameli<g ref="char:EOLhyphen"/>on:</hi> that can aſſume any colour but <hi>white.</hi>
+            </p>
+            <p>But the <hi>Foe</hi> muſt have ſomething to ſpeake in his owne defence: yet when he has produced all the rea<g ref="char:EOLhyphen"/>ſons he can poſſibly alledge, to wind up the Spider-woven webbe
+<pb n="9" facs="tcp:115130:15"/>of his Apology: He muſt appeare to the whole World and ſucceed<g ref="char:EOLhyphen"/>ing poſterities after theſe diſtracted times, an Actor of a cruell and bloudy Tragedy. In one word, ne<g ref="char:EOLhyphen"/>ver did a more virile or undaunted Spirit harbour more noble com<g ref="char:EOLhyphen"/>paſſion; holding nothing more in<g ref="char:EOLhyphen"/>glorious, then to dominere o're the miſery of a ſubdued Foc. So as to beſtow on him any ampler chara<g ref="char:EOLhyphen"/>cter: or preſent him in a fuller Por<g ref="char:EOLhyphen"/>traitture, were to give beames to the Sun: his integrity being impa<g ref="char:EOLhyphen"/>led with ſuch honour, as it far ſur<g ref="char:EOLhyphen"/>mounts the reach of cenſure.</p>
+            <p>But to the purſuit of our diſcourſe. After this gallant Gentleman had beat many intricate paths, and travers'd numerous Aſſaies, for the redreſſe and relief of his long re<g ref="char:EOLhyphen"/>ſtrained <hi>Maſter,</hi> our moſt grati<g ref="char:EOLhyphen"/>ous Soveraigne, whereto his Loyall thoughts were ever conſcienciouſly bent, he himſelfe with ſome other perſons of eminent and honourable
+<pb n="10" facs="tcp:115130:16"/>quality, as NORWICH, CAPEL, and LOUGHBOROW, &amp;c. ſtruck in to COLCHESTER: a Towne in<g ref="char:EOLhyphen"/>conſiderable, as was generally con<g ref="char:EOLhyphen"/>ceived both by the enemy and ad<g ref="char:EOLhyphen"/>jacent parts of the Country, either to receive by a proviſionall way of reliefe, any great force into it: or by reaſon of the indefenſive and intenible condition of the Town, to ſtand out any time upon their ſetling or planting in it. Yet ſo conſtantly couragious, vigilant, and incredibly induſtrious were theſe Nobly and Loyall diſpoſed Gen<g ref="char:EOLhyphen"/>tlemen, as this Towne, which in opinion by reaſon of her diſ provi<g ref="char:EOLhyphen"/>ſion, could not probably hold out againſt ſo powerfull and formida<g ref="char:EOLhyphen"/>ble an enemy, the ſpace of one Moneth; continued three Moneths in a moſt reſolute defiance and re<g ref="char:EOLhyphen"/>ſiſtance of a victorious Army, Sated with ſuch fulneſſe of Conqueſts, and ſupplyed with ſuch freſh and conſtant Recruits, to bring their
+<pb n="11" facs="tcp:115130:16"/>ſucceſſive atchievements to a more abſolute period. For during all this waſting and calamitous Siege, wherein the Army deepely ſuffer'd in the loſſe of their daringſt and experienc'd Souldiers, that <hi>cloſe City cubbe,</hi> the Armies moſt active Coy<g ref="char:EOLhyphen"/>duck, Major SKIPPON, omitted no opportunity wherein he might gratifie his EXCELLENCE, whoſe Creature he profeſt himſelfe to be: ſo long as his diſpoſition harmoniouſly tuned with his, for ſuppreſſing a Monarchicall pow<g ref="char:EOLhyphen"/>er: and eſtabliſhing a Levelling Democracy. Neither wanted this State-diving <hi>Major</hi> uſefull inſtru<g ref="char:EOLhyphen"/>ments to accompliſh his deſignes: Sundry Jewiſh Anarchiall Syna<g ref="char:EOLhyphen"/>gogue Rookes (and thoſe plumpe ones too) for they were Clerkes of the Treaſury, and ſuch as at a dead lift, could by the Chimical ap<g ref="char:EOLhyphen"/>plication of a <hi>white cement,</hi> which they had ever in readineſſe, ſtrengthen the weake ſinues of a
+<pb n="12" facs="tcp:115130:17"/>decayed Army. And this they pra<g ref="char:EOLhyphen"/>ctiſed nightly to prevent diſcovery. By this you may judge, upon what diſadvantage thoſe gallant Loyall Gentlemen ſtood ingaged. What<g ref="char:EOLhyphen"/>ſoever force or Party they loſt, ad<g ref="char:EOLhyphen"/>mitted no recovery: they were ſhut up from all viſible appearance of relief or recruit. Whereas the Army, though it were hourely ſen<g ref="char:EOLhyphen"/>ſible of the incomparable valour of the beſieged: yet by freſh Sup<g ref="char:EOLhyphen"/>plies, raiſed by certaine Citizens over-cramm'd purſes, their loſſes be they never ſo numerous, were repaired: and by the whole Coun<g ref="char:EOLhyphen"/>try, whoſe pliable affections were moulded in the obedience and di<g ref="char:EOLhyphen"/>rections of the Enemy, of all neceſ<g ref="char:EOLhyphen"/>ſary proviſions ſo fully ſtored, as no want could retard their deſignes, nor foreſlow their Motion, unleſſe it were too much exceſſe: and here I muſt ingenuouſly confeſſe, their <hi>fulneſſe</hi> might become prejudiciall to the Enemy, their owne Party:
+<pb n="13" facs="tcp:115130:17"/>for their exceſſive feeding made their reſty bodies ſo unweldy; as they never mounted our Wals nor Works with that ſpeed as they haſt<g ref="char:EOLhyphen"/>ned downe. But as it is the proper<g ref="char:EOLhyphen"/>ty of ſome men to be better <hi>fed</hi> then <hi>taught:</hi> So theſe cramm'd Birds, enlivened above a Souldiers garbe with theſe eager incent<g ref="char:EOLhyphen"/>ments, ſtickt not ſo long as their blouds were inflam'd, to put them<g ref="char:EOLhyphen"/>ſelves upon the deſperateſt aſſaies: but they came off ſo <hi>blewly,</hi> as their undertakings ever redounded to the benefit of the beſieged, and their diſhonour: for it was their uſuall coſtome either to leave with them both their <hi>Armes</hi> and <hi>Bodies;</hi> or at leaſt <hi>Armes</hi> without <hi>Bodies:</hi> thanking God they ſcap'd ſo well. Neither indeed, if we conſider it rightly, could it be any act of po<g ref="char:EOLhyphen"/>licy, to feed Souldiers ſo plentiouſ<g ref="char:EOLhyphen"/>ly; for the thought of that provi<g ref="char:EOLhyphen"/>ſion they left in the Almory, made them more neglectfull of their ſer<g ref="char:EOLhyphen"/>vice
+<pb n="14" facs="tcp:115130:18"/>to the Army: deſiring nothing more, then to leave thoſe Walls where they were entertained with no other Civilities, then fury and ſcarcitie: and to make retreat to their own Hutches, where they might be ſure to finde plenty.</p>
+            <p>Now look upon our <hi>Forlorne-hope;</hi> never was more Gallantry leſſe ſe<g ref="char:EOLhyphen"/>conded; nor from relief more divided. The ſtrength of thoſe adja<g ref="char:EOLhyphen"/>cent parts, lying in Sir CHARLES LUCAS his own native Country, which in reaſon might have obliged them to more obſervance, and begot in him the more confi<g ref="char:EOLhyphen"/>dence; did not only deſert them, but became Beſiegers of them: being inforced (for ſo we are in charity to temper it) by the over<g ref="char:EOLhyphen"/>awing power of a fearfull Army, to be induſtrious Aſſiſtants and Agents in the ruines of their own Natives: Yet I muſt tell them, (howſoever their fear may ſeeme to ſpeak for them) that this their
+<pb n="15" facs="tcp:115130:18"/>Agency ſhall, in ſucceeding times, redound to their laſting infamy. It was bravely concluded by the Poet,
+<q>
+                  <l>He knowes not how to dye,<note place="margin">Sen in Herc. furent.</note> who has the ſenſe</l>
+                  <l>To act, though forc'd againſt his Conſcience.</l>
+               </q>
+            </p>
+            <p>And leſſe then conſcientious they could not be of the injurious breach and violation of the Faith; inga<g ref="char:EOLhyphen"/>ging themſelves by promiſe to be Aſſiſtants to their diſtreſſed Coun<g ref="char:EOLhyphen"/>trymen; and afterwards, through puſillanimity to deſert them, nay, become inſtruments in their ruine. But to omit theſe: ſuch receding and back-ſliding Subjects, who re<g ref="char:EOLhyphen"/>gulate their courſe to the motion of the time; and hold their actions moſt <hi>ſecure,</hi> that draw their con<g ref="char:EOLhyphen"/>formity from <hi>power,</hi> deſerve no longer relation then what igno<g ref="char:EOLhyphen"/>miny may caſt upon them. We have learned <hi>better things,</hi> and are bound to practiſe them too, if we deſire to partake in the ſtile of
+<pb n="16" facs="tcp:115130:19"/>
+               <hi>Loyall Subjects,</hi> or in humane ſoci<g ref="char:EOLhyphen"/>ety of <hi>Reall Friends.</hi>
+            </p>
+            <p>Thus have you brieſly heard the many advantages of a <hi>powerfull E<g ref="char:EOLhyphen"/>nemy:</hi> with the diſadvantage of the <hi>Royall Party;</hi> from whence you may eaſily collect, and with a compaſ<g ref="char:EOLhyphen"/>ſionate candor, probably conclude: that no iſſue can be expected, by the Beſieged, but a fatall Cata<g ref="char:EOLhyphen"/>ſtrophe, after ſo many brave en<g ref="char:EOLhyphen"/>deavours, Sallies and aſſaies, gal<g ref="char:EOLhyphen"/>lantly performed: and to their ſucceeding honour memorably re<g ref="char:EOLhyphen"/>corded. And ſo the ſequell was: for having eaten all the <hi>Horſes, Dogs, Cats,</hi> and whatſoever (though moſt reluctant to nature) could af<g ref="char:EOLhyphen"/>ford them nouriſhment, yea, were it never ſo loathſome nor di<g ref="char:EOLhyphen"/>ſtaſtfull;<note n="†" place="bottom">So, as neither <hi>Vionua, Verona, Rhodes, Belgrade, Bargam ap Some, Brada,</hi> no, nor <hi>Samaria</hi> her ſelf could exceed the mi<g ref="char:EOLhyphen"/>feries of this diſtreſſed Town, in the ex<g ref="char:EOLhyphen"/>tremities of a continued Siege, and a wa<g ref="char:EOLhyphen"/>ſting Famine.</note> This unfortunate Town
+<pb n="17" facs="tcp:115130:19"/>of COLCHESTER was ſurren<g ref="char:EOLhyphen"/>dred after the continuance of three Moneths Siege compleatly ended; with theſe ſtrict conditions: The <hi>Superior Officers</hi> to Mercy, and the <hi>Souldiery</hi> upon Quarter for life. But how this expreſſe of MERCY was writ, like <hi>Draco's</hi> Laws, in Let<g ref="char:EOLhyphen"/>ters of blood, ſhall be ſhewne you afterwards.</p>
+            <p>Now ſhould it be demanded, what reaſon could there be for the <hi>Beſieged</hi> to hold out ſo long; and by their continued reſiſtance, to bring both themſelves with the reſt of the Inhabitants into ſuch miſery and fearfull diſtreſſe: eſpecially, ſeeing there appeared no hope at all of raiſing that laſting Siege; nor of the <hi>Generals</hi> remove till he had finiſhed his deſigne; Beſides their pertinacy and averſion from ſuch reaſonable conditions as in the be<g ref="char:EOLhyphen"/>ginning were propoſed to them, could but highly incenſe the <hi>Gene<g ref="char:EOLhyphen"/>rall,</hi> and bring them (as afterwards
+<pb n="18" facs="tcp:115130:20"/>it did) to extreamer termes, upon intelligence of their neceſſitous condition, that they might either be inforc'd to periſh through fa<g ref="char:EOLhyphen"/>mine, or neceſſarily ſurrender the Towne?</p>
+            <p>To this I anſwer, that there were two main reaſons that induced them to ſtand upon their own de<g ref="char:EOLhyphen"/>fence, to the defiance of the E<g ref="char:EOLhyphen"/>nemy.</p>
+            <p>Firſt was, that not only the County, wherein they were belea<g ref="char:EOLhyphen"/>gred, but other Counties too, had ingag'd themſelves upon their fide<g ref="char:EOLhyphen"/>lity, (a ſtrong gage of aſſurance a<g ref="char:EOLhyphen"/>mongſt good men) that they would really joyne in aſſiſtance with them, and ſtand in defence of their juſt Liberties; re-eſtating of their Soveraigne in His regall Throne; and disbanding of all onerous and unneceſſary Forces, pretenſively levied in this Kingdome, with a reſolute purpoſe of labouring to ſuppreſſe all Sects, Schiſmes, or
+<pb n="19" facs="tcp:115130:20"/>Diviſions, that might any way darken the <hi>Light</hi> of the <hi>Church,</hi> or diſturb the <hi>peace</hi> and <hi>tranquillity</hi> of the <hi>State.</hi> But this ſtrong ingage<g ref="char:EOLhyphen"/>ment procured an eaſie diſpenſati<g ref="char:EOLhyphen"/>on. For theſe <hi>faithfull Aſſiſtants</hi> proved their <hi>mortall Aſſaylants.</hi> So as none were more ready to lend an helping hand to the Enemy, after ſome braving menaces delive<g ref="char:EOLhyphen"/>red by the Army. So, as we may conclude here: all thoſe firme hopes which theſe Noble Gentle<g ref="char:EOLhyphen"/>men repoſed in theſe <hi>diffiding Counties,</hi> were quickly <hi>thawed,</hi> and <hi>reſolved</hi> to nothing. This it is for perſons of Quality, to ground their reliance on the <hi>Aegyptian Reedes;</hi> which will ſooner <hi>pierce</hi> the hand of the <hi>undertaker,</hi> then <hi>ſupport</hi> him.</p>
+            <p>But this diſeaſe, in all theſe late diſtempers and diſtractions, (as never <hi>State</hi> was farther out of her wits) has been ſo <hi>Epidemicall,</hi> as it may admit the better excuſe: for
+<pb n="20" facs="tcp:115130:21"/>I have ſcarcely knowne any County that has not grievouſly laboured of this infirmity. The Motion and Action of Armies, got them ally<g ref="char:EOLhyphen"/>ance, and freſh aſſiſtance what way ſoever they Marched: yea, and cauſed moſt Counties to re<g ref="char:EOLhyphen"/>nounce their <hi>firſt Principles</hi> by no other <hi>Argument</hi> then the brandiſh of a Sword.</p>
+            <p>Another reaſon to induce and till them on to the continuance of this Siege, was their daily expe<g ref="char:EOLhyphen"/>ctance of relief, not only from theſe neighbouring Counties, (whoſe joynt promiſe had ſtrong<g ref="char:EOLhyphen"/>ly ingaged them to their aſſiſtance) but from the <hi>North:</hi> neither were their hopes built on weak grounds; For a perſon of quality; and an ex<g ref="char:EOLhyphen"/>perienc'd, Vigilant &amp; Valiant <hi>Com<g ref="char:EOLhyphen"/>mander;</hi> though ſome late overtures have rendred him <hi>unfortunate,</hi> con<g ref="char:EOLhyphen"/>fidently aſſured them of a ſpeedy &amp; expedite relief: as appeared by his Letter directed to Sir CHARLES
+<pb n="21" facs="tcp:115130:21"/>LUCAS, to this effect: being truly tranſcribed after the Originall Co<g ref="char:EOLhyphen"/>pie.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>YOur <hi>Gallantry</hi> in <hi>Reſolution</hi> &amp; <hi>Action</hi> during that fierce &amp; fu<g ref="char:EOLhyphen"/>rious Siege of <hi>COLCHESTER,</hi> hath already confirm'd in us, that noble opinion which we ever retain'd of you in all your undertakings, both for <hi>Spirit</hi> and <hi>Knowledge.</hi> Valour ac<g ref="char:EOLhyphen"/>quites it ſelf beſt in extreames: Of this, your loyall proweſſe hath given an ample teſtimony. We here, who truly love and honour you, and who, with ſome of our beſt and choyceſt Forces, hope in a very ſhort time to <hi>Relieve</hi> you; could not retaine leſſe then a deep reſentment of the diver<g ref="char:EOLhyphen"/>ſion of thoſe noble-diſpoſed <hi>Royaliſts,</hi> who ingaged their Perſons (as their in<g ref="char:EOLhyphen"/>tendments viſibly appeared) for your Succour: with the premature fall of that active ſpark of true Native Honour, the Lord <hi>FRANCIS
+<pb n="22" facs="tcp:115130:22"/>VILLIERS:</hi> upon whoſe ſurprized and diſarmed Body, report informes us, that ſuch inhumanity, by a <hi>Me<g ref="char:EOLhyphen"/>channick hand</hi> was committed; as Barbariſme it ſelf would conceive Horror to be an Actor in a Subject of ſuch Cruelty. But what ſhall either you, or we collect from theſe tragick overtures, but the implacable hate and heat of an odious perfidious Foe, fla<g ref="char:EOLhyphen"/>ming fro<g ref="char:cmbAbbrStroke">̄</g> a furious deſire of imbruing his treacherous hands in the blood of all ſuch as profeſſe themſelves <hi>faithfull Servants</hi> in defence of their Princes honour, <hi>ſafety</hi> of their <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> her juſt and auncient Liberties! For which we Fight: and for preſer<g ref="char:EOLhyphen"/>vation of which we ſhall ever hold it a <hi>devotionall Loyalty</hi> to ingage our perſons, fortunes, whatſoever is moſt dear unto us. The Cruelty they ſhew to ours, might preſcribe us a Rule what to doe, when it ſhall pleaſe God that we be
+(which we hope ere long to be) <hi>Maſters</hi> of the <hi>Field.</hi> But re<g ref="char:EOLhyphen"/>venge in actions of cruelty, ſhall ever
+<pb n="23" facs="tcp:115130:22"/>be as far eſtranged from our thoughts, as theirs, ſince firſt theſe Civill unna<g ref="char:EOLhyphen"/>turall Wars were broached, have been fro<g ref="char:cmbAbbrStroke">̄</g> harbouring Loyalty or compaſſion. Mean time, theſe mens deſignes, who puſh at nothing lower then Crownes, (yet ſhould you unlock the Cabinets of their hearts, make Crownes their Objects) may afford both you, and us, who ſtand in defence of a <hi>juſt Cauſe,</hi> and no private <hi>Intereſt,</hi> (as God is our witneſſe) this uſefull Leſſon,<note n="†" place="margin">Had Sir <hi>CHARLES,</hi> with his con<g ref="char:EOLhyphen"/>ſtant Loy<g ref="char:EOLhyphen"/>all friend Sir <hi>GEO: LISLE,</hi> ob<g ref="char:EOLhyphen"/>ſerved this leſſon, upon which they ever unanimouſly fixed, and had to death purſued, if their reſolution had not been by the Common Souldiers, who make perſonall ſafety their only <hi>Object,</hi> with other treacherous In<g ref="char:EOLhyphen"/>ſtruments betrayed, they had not ſo expe<g ref="char:EOLhyphen"/>rimentally tryed the <hi>Mercy</hi> of a remorſeleſſe Enemy to be <hi>Cruelty.</hi> But if God have a <hi>Bottle</hi> for our <hi>teares,</hi> he has ſurely in ſtore a <hi>Vyal</hi> for our <hi>Blood</hi> ſo innocently ſhed: To him then let us commit their Cauſe, who is the juſt Avenger.</note> Ra<g ref="char:EOLhyphen"/>ther to ſacrifice our Lives to a noble and memorable Fate; then to ſubmit to an imperi<g ref="char:EOLhyphen"/>ous mercileſſe Foe.</p>
+                  <pb n="24" facs="tcp:115130:23"/>
+                  <p>Hold out, brave Sir; continue your reſolution; purſue your Sallies; let not their numerous Recruites amate you, (give me leave for the true zeal I bear to our Cauſe, and love to your Perſon, to enforce this needleſſe advice:) you need little doubt, but if <hi>SKIPPONS</hi> power of <hi>inliſting</hi> men be abridg'd, as we hear it is: that theſe Recruites, or freſh Supplies can continue long. Sedition, have it never ſo <hi>ſpecious pretences,</hi> nor <hi>powerfull favourites;</hi> it will at one time or other be unmask'd, and ſhew its own deformity; which ſhewn. thoſe who followed her, and fooliſhly fawned on her, will become much aſham'd, that their miſguided judg<g ref="char:EOLhyphen"/>ments ſhould be ever taken with ſo deceiving a beauty.</p>
+                  <p>Now to enliven the hopes of all that brave and honourable <hi>Cavalry</hi> there with you; Think every Evening,
+<pb n="25" facs="tcp:115130:23"/>how we are one dayes March nearer you then we were in th' Morning: and that our <hi>heartieſt wiſhes</hi> goe along with you; as we are confident within few dayes, with our hands to aſſiſt you. And to confirme the ap<g ref="char:EOLhyphen"/>parancy of theſe hopes, you may be pleaſed herewith to receive an Ab<g ref="char:EOLhyphen"/>ſtract of our proceedings, together with the Order we obſerve, and ſuc<g ref="char:EOLhyphen"/>ceſſe we receive in our March to<g ref="char:EOLhyphen"/>wards you; which you may with aſ<g ref="char:EOLhyphen"/>ſurance communicate to my Lord <hi>GORING,</hi> E. of <hi>NORWICH,</hi> Lord <hi>CAPEL,</hi> Lord <hi>LOUGHBOROW;</hi> to whom I beſech you preſent my af<g ref="char:EOLhyphen"/>fectionateſt ſervice, with all others of concern.</p>
+               </body>
+            </floatingText>
+            <p>After this he deſcends to a rela<g ref="char:EOLhyphen"/>tion of the manner and ſucceſſe of their March, which for brevity ſake as partly inconſiſting with our preſent diſcourſe, I purpoſely omit: and fall upon the concluſion of this Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dear Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>hold out but a little, a
+<pb n="26" facs="tcp:115130:24"/>very little ſpace; your</hi> friends <hi>will viſit you, and bring you off with ho<g ref="char:EOLhyphen"/>nour; and with joynt imbraces con<g ref="char:EOLhyphen"/>gratulate you, for making</hi> Loyalty <hi>your</hi> Object <hi>of vallour.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Now, upon a due and ſerious recollection of theſe, can any one judge that their hopes were groun<g ref="char:EOLhyphen"/>ded upon a ſhallow foundation? No; it is not to be doubted but that their ſpeedy <hi>Relief</hi> was both intended and purſued, and had been to purpoſe effected, if the Seaſon of the year had afforded a conveni<g ref="char:EOLhyphen"/>ency for the conduct of their Amu<g ref="char:EOLhyphen"/>nition and Artillery: which if it had been expedited, as the time of the year though not the Seaſon was for it, might have eaſily prevented CROMWELS encounter: and brought on their Army with more honour. For at that time, this Victorious <hi>Lieutenant,</hi> now highly ſwolne with his late <hi>Scottiſh-rent,</hi> had employments enough elſe<g ref="char:EOLhyphen"/>where: ſo as of neceſſity either
+<pb n="27" facs="tcp:115130:24"/>the <hi>Generall</hi> might have been in<g ref="char:EOLhyphen"/>forc'd to raiſe his Siege, which his ſpirit could hardly have brooked, and ſo ingage them: or have ſuf<g ref="char:EOLhyphen"/>fer'd them to appear, in a full Body before COLCHESTER, which would have infinitely ſcar'd him.</p>
+            <p>Neither am I ignorant how ſome, and thoſe of approved ex<g ref="char:EOLhyphen"/>perience and inſight in the depor<g ref="char:EOLhyphen"/>ment of theſe affaires; will not ſtick to impute the ground of this deficiency, to the remiſſe March and retard of the <hi>Scots,</hi> whoſe de<g ref="char:EOLhyphen"/>ſire was (for the refuſe and raſcalry of them I may ſafely ſpeake) ra<g ref="char:EOLhyphen"/>ther to continue their debate with their <hi>Preſbyterian Clergy,</hi> touch<g ref="char:EOLhyphen"/>ing the conveniency, and inconve<g ref="char:EOLhyphen"/>niency of this War, and ſo by pro<g ref="char:EOLhyphen"/>tracting their March, to ſave their skin; then to expoſe theſelves to the adventure of ſo hazardous at<g ref="char:EOLhyphen"/>tempt; by receiving a bullet for an uncertaine booty. It was never yet knowne, that the <hi>blew Bonnet</hi>
+               <pb n="28" facs="tcp:115130:25"/>would enter liſts upon the gilded promiſes of a <hi>Publique faith,</hi> or the Huxters cold hopes of <hi>beſt-be-truſt.</hi> And when all this is done; be con<g ref="char:EOLhyphen"/>fident, their <hi>hands</hi> will be more rea<g ref="char:EOLhyphen"/>dy to <hi>receive</hi> it, then their <hi>hearts</hi> to <hi>earne</hi> it. It has been ever obſerv'd of the <hi>Peſantry</hi> of that <hi>Nation,</hi> that they could <hi>feed</hi> better then <hi>fight. Plundering</hi> was their onely <hi>Maſter<g ref="char:EOLhyphen"/>piece:</hi> which they could finger with ſuch dexterity, as if they had been nurs'd and bred up in that Trade from their infancy.</p>
+            <p>Neither could the diſcipline of their <hi>Generall</hi> promiſe any great ſucceſſe, he may profeſſe himſelfe a Souldier: but inſtance that place or exploit where he came ever off with honour. Sundry Gentle<g ref="char:EOLhyphen"/>men of eminent quality have been inveigled by large promiſes to ingage their Perſons and Fortunes for his <hi>German</hi> Service: but as his arrivall purchas'd him little above contempt: ſo his diſtreſ<g ref="char:EOLhyphen"/>ſed
+<pb n="29" facs="tcp:115130:25"/>followers, (ſo many as were left unattach'd by famine or mur<g ref="char:EOLhyphen"/>ren at <hi>Caſtrene</hi>) return'd back with tatter'd habits and heavy hearts, ha<g ref="char:EOLhyphen"/>ving unfortunately waſted the re<g ref="char:EOLhyphen"/>mainder of their Fortunes in that uſeleſſe &amp; thankleſſe ſervice. BUT ſet us looke homeward &amp; reflect upon our owne State! From what Agent may we more truely derive the Source of our preſent miſeries; whereon all Countries may with a compaſſionate horror fixe their eyes, as on ſome prodigious ſpecta<g ref="char:EOLhyphen"/>cle of State, which no preceeding Age could ever parallel? From whence I ſay more probably ſprung the Origen of our woes, our cala<g ref="char:EOLhyphen"/>mitous diſtractions, then from this <hi>Cloud-walking Polititian;</hi> who e<g ref="char:EOLhyphen"/>ver made his owne interſts the Ob<g ref="char:EOLhyphen"/>ject of his actions: yet fell ſhort of what he intended, becauſe the in<g ref="char:EOLhyphen"/>tegrity of the Man was generally inſpected? How many fruitleſſe Meſſages returned he in his agency
+<pb n="30" facs="tcp:115130:26"/>betwixt the <hi>Scots</hi> and us? How willingly did he ſpin out time, and pretend obſtructive wayes which never yet came to diſcovery? Meane time, he omitted no oppor<g ref="char:EOLhyphen"/>tunity that might advance his owne ends: but ſuch perſpective and pre<g ref="char:EOLhyphen"/>venting eyes were ever looking o<g ref="char:EOLhyphen"/>ver him: as his lime-twiggs would not hold, which afflicted his ayrie ſpirit not a little. Now ſumme up theſe together; and what expe<g ref="char:EOLhyphen"/>ctance could we have either of ſet<g ref="char:EOLhyphen"/>ling State or Church Government by ſo timing &amp; popular a <hi>Generall?</hi> Did this great Duke, thinke you, compaſſionate our diſtractions? O no! His onely fiſhing was in troubled waters; where his <hi>hooke</hi> could not be diſcovered, nor his dangerous dark plots diſeloſed. Pray you, reſolve me; was ever Army ſo numerous and ſeemingly formi<g ref="char:EOLhyphen"/>dable ſo ſoon defeated? or ſo ma<g ref="char:EOLhyphen"/>ny Officers and Commanders, who bare the countenances of men, ſo
+<pb n="31" facs="tcp:115130:26"/>eaſily Captived? If this be the iſſue of a <hi>Canopy-Generall;</hi> whoſe very port and magnificence in his March promiſed wonders; nay the reduce of a diſtemper'd and mad-condi<g ref="char:EOLhyphen"/>tioned State in a moment: what account is there to be made of ſuch vading runnagade vanity, that pre<g ref="char:EOLhyphen"/>ſents majeſty in an imbrodred ha<g ref="char:EOLhyphen"/>bit with a feveriſh heart? But be<g ref="char:EOLhyphen"/>leeve it, I cannot chuſe but remem<g ref="char:EOLhyphen"/>ber, what his <hi>next Commander</hi> un<g ref="char:EOLhyphen"/>der him, ſpake to an intimate friend of his upon ſome expreſſes of joy which he perceived his friend to be taken with, upon his nomination to be <hi>Lieutenant Generall. Deare friend,</hi> ſaid he, <hi>if you really profeſſe love to me, moderate your joy; for it may fall out that theſe my Commands may redound to my prejudice. For who knows, whether my</hi> Generall <hi>and I, in this</hi> High Service, <hi>have not dif<g ref="char:EOLhyphen"/>ferent ends? for the one of us may di<g ref="char:EOLhyphen"/>rect the levell of our aimes at a</hi> King, <hi>the other at a</hi> Crowne. Implying
+<pb n="32" facs="tcp:115130:27"/>
+               <hi>preſervation</hi> of Soveraignty in the one: <hi>Innovation</hi> in the other. This ſtruck home; and would have gone to th' quick if the attention of ſuch an <hi>ambitious Spirit</hi> had given leaſt ear to ſo tart and ſpitefull a whiſper. But I cannot compare this unbounded flame of ambition, (re<g ref="char:EOLhyphen"/>taine it never ſo much heat) more properly then to our <hi>Chamber-Lawyer;</hi> who performes his pra<g ref="char:EOLhyphen"/>ctiſe within doors: But though he contrive at home, his councell re<g ref="char:EOLhyphen"/>ceives life and ſpirit abroad. <hi>Gyges</hi> ring would be an uſefull Signet for ſuch a mans thumbe: whoſe deſire clozeth in this, to ſee all mens acti<g ref="char:EOLhyphen"/>ons; and not to be ſeen by any. An excellent vaile for an Ambiti<g ref="char:EOLhyphen"/>ous Statiſt. Yet you ſhall generally obſerve, how theſe <hi>Perſons</hi> who have the extenſiveſt aimes; for moſt part loſe the Game either by ſhoot<g ref="char:EOLhyphen"/>ing <hi>too far over,</hi> or <hi>too far ſhort</hi> of their <hi>Marke. Too far over</hi> by ſur<g ref="char:EOLhyphen"/>prizing themſelves with their too
+<pb n="33" facs="tcp:115130:27"/>much cunning: Or <hi>too far ſhort</hi> by the prevention of others, before they attaine their end. Many of theſe two, faile by confiding too much in their owne abilities: or relying on thoſe who fall off in the purſuite of their deſignes. This our <hi>Scotch Generall</hi> had lately ſufficient proofe of: when he ſtored his hopes in the valour of his <hi>Blew-caps</hi> and their bordering Allies; all of like Size with them for proweſſe; as that ancient <hi>Bard</hi> truely ſung:</p>
+            <l>
+               <hi>Calidoni ſocios elegere pares</hi>
+            </l>
+            <l>
+               <hi>Nec turpi fugâ redeunt degeneres. Vat. Cal.</hi>
+            </l>
+            <l>The <hi>Scots</hi> chus'd ſuch <hi>Allies</hi> with<g ref="char:EOLhyphen"/>out delay,</l>
+            <l>Who knew as well as they to run away.</l>
+            <p>Theſe were not the men that could performe the worke; High deſignes require powerfull meanes. For theſe be ſuch <hi>Bats,</hi> as com<g ref="char:EOLhyphen"/>bat beſt by night. And indeed,
+<pb n="34" facs="tcp:115130:28"/>ſince their firſt Invaſion of our un<g ref="char:EOLhyphen"/>happy Kingdome, they have been ever more ſerviceable to our <hi>Saints</hi> (whoſe obſequious Creatures they ſometimes were:) in their <hi>number</hi> then <hi>proweſſe.</hi> O unfortunate King<g ref="char:EOLhyphen"/>dome, when a ſervile irregular peo<g ref="char:EOLhyphen"/>ple muſt be invited to bring us to <hi>Reformation!</hi> But theſe heartleſſe white-liver'd <hi>Boobies,</hi> repent them<g ref="char:EOLhyphen"/>ſelves (poor ſtarv'd Snakes) that ever they undertooke this laſt ad<g ref="char:EOLhyphen"/>venture: for they have loſt more by HAMILTON then ever they got by LISLEY. A pittifull Ca<g ref="char:EOLhyphen"/>taſtrophe, truſt me. But what re<g ref="char:EOLhyphen"/>medy? Pillage and rapine can hard<g ref="char:EOLhyphen"/>ly hold out to a poſterity. Thus has their zeale conſum'd them; their cowardize confounded them; their <hi>Generall</hi> diſſerted them; and himſelfe of thoſe hopes that invited him to conduct them hither. Yet in this hard condition, they confeſs as a <hi>Curtſie</hi> of <hi>England,</hi> that they fare as well here in Priſon, as they
+<pb n="35" facs="tcp:115130:28"/>did in <hi>Scotland,</hi> where they had freedome. But our Counties will be ſhortly weary of ſuch Gueſts. Neither can they doe them a grea<g ref="char:EOLhyphen"/>ter diſpleaſure then in ſending them to the place from whence they came: and ſo by their famiſh'd en<g ref="char:EOLhyphen"/>tertainment, to the place of Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But, what trow you, will this <hi>Grand Captive Generall</hi> doe, who yielded up himſelfe ſo <hi>tamely</hi> to his <hi>pretended Enemy?</hi> I ſhall tell you: He holds his <hi>perſonall Security</hi> (the fabrick of treachery) ſo precious an Object, that if he come not off <hi>faire,</hi> he intends to make ſome fall off <hi>foul.</hi> He has a <hi>large Liſt</hi> of all ſuch as were Inviters of his <hi>Duke<g ref="char:EOLhyphen"/>ſhips</hi> egregious proweſſe, with his <hi>Fugitives</hi> hither: and theſe he meanes to diſcover.</p>
+            <p>Now, will not this <hi>diſcovery</hi> be an unexemplary action of Honour: when he, who profeſt himſelfe <hi>prime Champion</hi> for His <hi>Majeſty,</hi>
+               <pb n="36" facs="tcp:115130:29"/>ſhall accuſe His <hi>well-wiſhers,</hi> and impeach them for an <hi>Office</hi> of <hi>Loyalty?</hi> Yet hold up your heads, ye that are guilty of the Bill; ſuch courſe is taken as will cruſh this <hi>Deſigne</hi> in the ſhell. A <hi>Committee</hi> of their owne <hi>Leven</hi> is to be ſent down privately, to take this <hi>Great Runnegado's</hi> examination; but no<g ref="char:EOLhyphen"/>thing muſt be found of validity: They are fooliſh Judges that will betray themſelves: Onely ſome <hi>well-cramm'd Royaliſts</hi> (who be none of their <hi>Ayry</hi>) muſt be ſqueaz'd for example ſake. And for himſelf, whoſe <hi>Lodging</hi> is hung with <hi>Tapi<g ref="char:EOLhyphen"/>ſtry,</hi> a proper furniture for a Pri<g ref="char:EOLhyphen"/>ſoner, with a <hi>Bed</hi> valued at a <hi>thouſand pound;</hi> being held more ſutable for his <hi>unmilitary Corpſe</hi> then any <hi>Field-bed:</hi> He may have his liberty when he pleaſeth, if he have it not already; For there is an <hi>Ordinance</hi> a foot, which ſpeakes much in favour of the <hi>Scots.</hi> By the ſinnewy ſtrength of which <hi>Ordi<g ref="char:EOLhyphen"/>nance,</hi>
+               <pb n="37" facs="tcp:115130:29"/>if theſe <hi>Scots</hi> at any time invaded this <hi>Kingdome,</hi> they were to be holden only for <hi>Diſturbers</hi> of the <hi>Peace:</hi> Whereas, if any of our <hi>Engliſh</hi> joyned with them in that active invaſion, they were to be proceeded againſt as <hi>Traytors.</hi>
+            </p>
+            <p>So the <hi>Duke</hi> is <hi>ſecure</hi> enough, which is all He deſires upon Earth but a <hi>Crowne:</hi> But if he fight no better then he did of late, He de<g ref="char:EOLhyphen"/>ſerves to have his <hi>Crown</hi> ſhaven, and (as the ancient cuſtome of thoſe <hi>Eliots</hi> was to their <hi>Slaves</hi>) be diſgracefully kick'd for a <hi>Coward.</hi> Yet I muſt needs confeſſe, he ſhew'd himſelfe more thankfull in appea<g ref="char:EOLhyphen"/>ring <hi>leſſe Valiant.</hi> For by whoſe meanes obtain'd he his <hi>liberty,</hi> when he remain'd <hi>Priſoner</hi> for his trea<g ref="char:EOLhyphen"/>cherous Deſignes at PENDEN<g ref="char:EOLhyphen"/>NIS CASTLE? Was it not, I pray you, by the ſpecial grace of our <hi>Saintly Senate?</hi> Had our <hi>Prince</hi> any hand in his inlargement? Was it not then a gratefull part in him,
+<pb n="38" facs="tcp:115130:30"/>(though it were to the <hi>betraying</hi> of his <hi>Truſt,</hi> and <hi>diſhonour</hi> of his <hi>Country</hi>) to gratifie CROMWEL with all his Horſe and Armes; and ſo requite their care by ſatisfying their <hi>deſires,</hi> who were procurers of his Liberty?</p>
+            <p>But what elſe could be expected by<note n="†" place="margin">CALIDONIA Perfidiae Emblema; Juſtitiae Auathcma; Injuriae Scaena; Ne<g ref="char:EOLhyphen"/>quitiae Plena; Amicitiae Aliena. Vid. Fa<g ref="char:EOLhyphen"/>bian. in Chron. Froſard. Polid. Lanquet, in. Epit. Coopper. ib. Barc. in Icon. anim. Pracipuè, Muraet. in Calliop. Calid.</note> 
+               <hi>CALIDON,</hi> being by <hi>Chronologiſts</hi> rendred to be the <hi>Embleame</hi> of <hi>Diſloyalty;</hi> a <hi>Stranger</hi> to <hi>Equity;</hi> an <hi>Harbour</hi> for <hi>Injury;</hi> The <hi>Magazen</hi> of <hi>Iniquity;</hi> The <hi>Counterfeit</hi> of <hi>Amity?</hi>
+            </p>
+            <p>Truth is, had <hi>Lauderdaile,</hi> the Dukes ſollicitous Agent, prevailed in his meſſage for bringing our Prince from the <hi>Downes</hi>
+(under a plauſive pretence) to be abſolute Generall of the <hi>Scottiſh</hi> Forces, it
+<pb n="39" facs="tcp:115130:30"/>might have produc'd ſuch effects as might have afflicted the Duke with the unexpected ſucceſſe of his Ar<g ref="char:EOLhyphen"/>my. But a Princes riſing hopes to fall upon ſuch an hazard was nei<g ref="char:EOLhyphen"/>ther ſafe nor probably ſecure, where men account no otherwiſe of Alle<g ref="char:EOLhyphen"/>geance, then of a politick pretence to obtaine their owne ends: and from an eaſie diſpenſation with proteſts and vows (as if they were onely ceremonious garbs of the time) can appear perſonally moſt, where they are really leaſt; it is dangerous I ſay, for the hopes of a Diadem to be there lodged.</p>
+            <p>Honeſt and integrious breaſts were ever held the Princes choi<g ref="char:EOLhyphen"/>ceſt Guardians. His Alliance or whatſoever elſe he might privately intend, could not ſo well ſecure him there by Land, as his Princely Commands may here by Sea.</p>
+            <p>But to our purpoſe: Though I might ſeeme to have inſiſted long upon this <hi>Subject</hi> (or what you
+<pb n="40" facs="tcp:115130:31"/>pleaſe to call him, for I ſhould wiſh that his thoughts may ever ac<g ref="char:EOLhyphen"/>knowledge really that ſtile:) yet I conceive this to be no digreſſion; ſeeing it holds ſuch propriety and pertinency to the <hi>principall diſcourſe</hi> we have in hand. For I am confi<g ref="char:EOLhyphen"/>dently perſwaded, had this <hi>Great man</hi> ſhewne that promptneſſe of will, and expediteneſſe in his March, whereto he was ſo much importu<g ref="char:EOLhyphen"/>ned by our <hi>Engliſh Generall</hi> for our <hi>Northern</hi> Expedition; they had nei<g ref="char:EOLhyphen"/>ther (as I touched before) aſpers'd ſuch a blemiſh of cowardize upon his <hi>Honour:</hi> nor expos'd poor diſtreſ<g ref="char:EOLhyphen"/>ſed COLCHESTER to the Mer<g ref="char:EOLhyphen"/>cy of a mercileſſe Foe. Their re<g ref="char:EOLhyphen"/>liefe could not have been ſo long a wanting: if his zeale and allacrity to ſo gallant a ſervice had not been retarding.</p>
+            <p>But leaving theſe to their <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> a place equally poor and ſuta<g ref="char:EOLhyphen"/>ble to their ingenerous quality: I am to proceed in my diſcovery and
+<pb n="41" facs="tcp:115130:31"/>diſcourſe of <hi>Their</hi> actions, who were <hi>Antipodes,</hi> at leaſt <hi>Antithetes</hi> to theſe <hi>Straglers</hi> ſlaviſh condi<g ref="char:EOLhyphen"/>tions.</p>
+            <p>WE may not without high in<g ref="char:EOLhyphen"/>gratitude, ſilence the Actions of theſe abſolute Gentlemen in the whole courſe and purſuit of their gallant Service.</p>
+            <p>In this ſurvey, we are in the firſt place (to omit ingagements of leſſe conſequence) to mount up the hill, near NEWBURY and ENBORNE Heath, the two places where the moſt of that memorable Battaile was fought; Where Sir <hi>CHARLES L<g ref="char:V">Ʋ</g>CAS</hi> with ſundry other worthy Commanders, bore them<g ref="char:EOLhyphen"/>ſelves as bravely as any men alive. In which Fight Sir <hi>CHARLES</hi> with other prime Officers was grievouſly wounded. Here were his Characters of honour in a Crimſon die, deepely ſtamped.</p>
+            <p>Here Lieutenant Collonel Sir <hi>GEORGE LISLE</hi> bravely
+<pb n="42" facs="tcp:115130:32"/>led up the <hi>Forelorne-hope,</hi> with ſuch reſolution, as his Vallour had ſuch influence on his Souldiers, as the re<g ref="char:EOLhyphen"/>miſſeſt ſpirit under his Command, in imitation of ſo gallant a Leader, became infinitely active in the pur<g ref="char:EOLhyphen"/>ſuit of their ſervice.</p>
+            <p>We are to preſent to you like<g ref="char:EOLhyphen"/>wiſe (for ſuch <hi>Annals</hi> admit no pe<g ref="char:EOLhyphen"/>riod) Sir <hi>CHARLES L<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>CAS</hi> his Valiant courage, upon the Rebels aſſault of <hi>CAWOOD</hi> Caſtle; where with skill and Va<g ref="char:EOLhyphen"/>lour he forc'd his way through the Rebels Quarters to ſuch places as he thought convenient; and that with ſuch confidence and magna<g ref="char:EOLhyphen"/>nimity, as his very name became a terrour to the Enemy.</p>
+            <p>His Gallantry at <hi>MAR<g ref="char:EOLhyphen"/>STON</hi> Moore; where it is thought
+(though I be better opini<g ref="char:EOLhyphen"/>on'd of his <hi>EXCELLENCE</hi>) that he gave our <hi>great Generall</hi> ſuch a blow, as in revenge coſt him his life.</p>
+            <pb n="43" facs="tcp:115130:32"/>
+            <p>His valiant mannage at <hi>NEW<g ref="char:EOLhyphen"/>ARKE;</hi> where he expreſſed him<g ref="char:EOLhyphen"/>ſelfe a gallant Souldier both in his diſcipline and perſonall action.</p>
+            <p>His brave &amp; ſucceſſefull attempt, in his March from BERKLEY Caſtle with part of his Regiment betwixt SLYMBRIDGE and BEVERSTON <hi>Caſtle</hi> upon Col<g ref="char:EOLhyphen"/>lonel <hi>MASSEYS</hi> Garriſons.</p>
+            <p>His incomparable gallantry, in the purſuit of his Aſſayes at <hi>TED<g ref="char:EOLhyphen"/>B<g ref="char:V">Ʋ</g>RY.</hi>
+            </p>
+            <p>FOR Sir <hi>GEORGE LISLE,</hi> looke upon his brave deport<g ref="char:EOLhyphen"/>ment, in his ingage at <hi>BRAM<g ref="char:EOLhyphen"/>DEANE Heath,</hi> where he was ſo generally approved, and admi<g ref="char:EOLhyphen"/>red, both for his direction and re<g ref="char:EOLhyphen"/>ſolution in actions of Valour, as it redounded to his laſting honour.</p>
+            <p>Shall we returne his expreſſe and gallant demeanure in that me<g ref="char:EOLhyphen"/>morable ſervice betwixt <hi>NEW<g ref="char:EOLhyphen"/>B<g ref="char:V">Ʋ</g>RY</hi> and <hi>SPINE?</hi> we will render it, as we have from
+<pb n="44" facs="tcp:115130:33"/>a ſincere penne received it.</p>
+            <p>
+               <hi>As for Collonel LISLE him<g ref="char:EOLhyphen"/>ſelf, we profeſs it troubles us; We want language to expreſs his carri<g ref="char:EOLhyphen"/>age: for he did all things with as much judgement, cheerfulneſs and preſent diſpatch</hi> (admirable obſer<g ref="char:EOLhyphen"/>vances in one of his years) <hi>as had ſpeciall influence on every Common Souldier; taking particular care of all except himſelf. The truth is, he gave the Rebels three moſt gal<g ref="char:EOLhyphen"/>lant Charges; In the firſt, his Field-Word was FOR THE CROWNE, and then</hi> (<hi>to ſecond his</hi> Impreze <hi>with his</hi> Zeale) <hi>he beat them back, and knocked them downe both with Bul<g ref="char:EOLhyphen"/>let and Musket-ſtock; In the ſecond, his Word FOR PRINCE CHARLES, and then he cut them off as they came on; and hewed them down ſufficiently as they runnt away; In the third, 'twas FOR THE D<g ref="char:V">Ʋ</g>KE OF YORK; and then he ſlaſh'd them ſo home, that they troubled him no more: for had
+<pb n="45" facs="tcp:115130:33"/>they come againe, he reſolved (a reſo<g ref="char:EOLhyphen"/>lution ſuitable to ſo brave and un<g ref="char:EOLhyphen"/>daunted a Spirit) to have gone over all the Kings Children, till he had not left one Rebell to fight againſt the</hi> Crown, <hi>or the</hi> Royall Progeny. <hi>In which ſervice the Colonell had no Armour on, beſides Courage and a good Cauſe, and an Holland Shirt; for as he ſeldome wore defenſive Armes, ſo he now put off his very Buff-doublet, to animate his men, as may be preſumed, that the commoneſt Souldier might ſee himſelf better Arm'd then his Colonell; or becauſe
+'twas darke, they might better diſ<g ref="char:EOLhyphen"/>cerne him from whom they were to receive both Direction and Cou<g ref="char:EOLhyphen"/>rage.</hi>
+            </p>
+            <p>
+               <hi>However, it gave occaſion to a</hi> Londoner <hi>that week in Print to ſay;</hi> The Iriſh Papiſts in the Kings Ar<g ref="char:EOLhyphen"/>my at <hi>NEWB<g ref="char:V">Ʋ</g>RY,</hi> had di<g ref="char:EOLhyphen"/>verſe Witches <hi>(as no Hagge more fearfull then valour to a Co<g ref="char:EOLhyphen"/>ward)</hi> among them; which many
+<pb n="46" facs="tcp:115130:34"/>of <hi>CROMWELLS</hi> Souldiers did plainly perceive to flie ſwiftly from one ſide of the Kings Army to another.</p>
+            <p>Which hath thus much truth in it, that this Spirit or Ghoſt
+(call it what they pleaſe) frighted all thoſe guilty Rebels out of the Field, and made them runne for protection, to their Canon and maine Body, which got near to the Hill where they quartered, above a mile from the place of Fight; leaving the whole pillage of the Field to His Majeſties Souldiers without ſhoo<g ref="char:EOLhyphen"/>ting one Muſquet to diſturbe them.</p>
+            <p>And to manifeſt the care he took for his owne in the cloſe of the Conqueſt: The very next day af<g ref="char:EOLhyphen"/>ter the laſt <hi>NEWB<g ref="char:V">Ʋ</g>RY</hi> Fight, when His Majeſties Army was drawne off, that Shy Earle of <hi>MANCHESTER</hi> went in<g ref="char:EOLhyphen"/>to Mr. <hi>DOLEMANS</hi> houſe in <hi>SHAW</hi> (near <hi>NEWB<g ref="char:V">Ʋ</g>RY</hi>)
+<pb n="47" facs="tcp:115130:34"/>where he found ſome wounded Souldiers; Collonel <hi>LISLE</hi> (who ſo gallantly commanded thoſe Guards the day before) left a note in the houſe (obſerve his no<g ref="char:EOLhyphen"/>ble care) wherein he certified, <hi>that certaine hurt men! (ſome whereof were His Majeſties Souldiers, the reſt were Priſoners, whom the Collo<g ref="char:EOLhyphen"/>nel took in the laſt Fight) which could not at the preſent be removed from that place, without hazard of the poor mens lives. Therefore he de<g ref="char:EOLhyphen"/>ſired all Gentlemen, Officers and Soul<g ref="char:EOLhyphen"/>diers whom it might concerne, to af<g ref="char:EOLhyphen"/>ford them protection and aſſiſtance as he had done, for as much as the poor men were unable to helpe themſelves.</hi>
+            </p>
+            <p>A pious compaſſion in a Soul<g ref="char:EOLhyphen"/>dier, and ſuch as deſerves ever to be recorded and related to his ho<g ref="char:EOLhyphen"/>nour.</p>
+            <p>Though ſuch was the cruelty of an implacable Enemy, as in revenge of their late defeat, this civill re<g ref="char:EOLhyphen"/>queſt was quickly ſleighted.</p>
+            <pb n="48" facs="tcp:115130:35"/>
+            <p>Were it not now a great pitty, that <hi>Theſe</hi> who have acted their parts with ſuch generall applauſe on the Theatre of honour; ſhould be cut off by an imperious cenſure: and be <hi>there</hi> doom'd to death, where their actions merited ſo much fame? yet muſt they under<g ref="char:EOLhyphen"/>goe this Fate. One of them with<g ref="char:EOLhyphen"/>in the ſight of his owne Family: The other before <hi>Thoſe,</hi> who had amply taſted of his bounty and cle<g ref="char:EOLhyphen"/>mency.</p>
+            <p>BuT now imagine (which cannot be conceited without a paſſionate teare) the furious Enemy entring this forlorn Town; wherein if com<g ref="char:EOLhyphen"/>paſſion could receive impreſſion in the boſome of a Foe; They might in every place take a view of wofull objects; in every ſtreet Spectacles of famine; wherein the patience &amp; re<g ref="char:EOLhyphen"/>ſolution of the beſieged, could not be ſufficiently admired in ſhewing ſuch conſtancy, amidſt the heavy extreames of ſuch a long-continued
+<pb n="49" facs="tcp:115130:35"/>Siege. Death was writ in many of their countenances, yet did many of theſe Loyally-affected Spirits ſmile at their ſufferings; as if the goodneſſe of their CAUSE had fortifide them againſt all miſeries. But amongſt others who were emi<g ref="char:EOLhyphen"/>nent ſufferers, be it your honour principally to caſt your eyes upon a paire of gallant Soules, which we here diſcourſe of: with the circum<g ref="char:EOLhyphen"/>ſtance of the Meſſage of death brought unto them; and by whom: with their brave and unexemplary deportment, at and before the time of their ſuffering.</p>
+            <p>IRETON, a proſperous Son-in-law under a Victorious Father, was the man that brought them the <hi>Newes.</hi> Which could not be of ſadder concerne to the ſufferer, then it was infinitely reliſhing to the Meſſenger. Not ſo much for the delight he tooke in their deaths, (for I hold the man to have more humane ſenſe and compaſſion in
+<pb n="50" facs="tcp:115130:36"/>him) then to rejoyce in ſuch a ſpe<g ref="char:EOLhyphen"/>ctacle: but rather for His raſh and inconſiderate cenſure, who was the prime Agent and procurer of their deaths. For you muſt underſtand, that he had not only received from his wiſe and politick NOL, a Wife, Offices, preferments and honours, which he had liberally confirm'd: but a pretty ſhare of pollicy to boot. And this he had never better opportunity to bring in execution then now. We know well, as there is nothing that ſtamps or ſtiles any one more truely Noble, then to remit revenge when he may act it: and to moderate his Command, when he may to the higheſt pitch extend it: ſo is there nothing that renders him more odious then to exerciſe his revenge or inſulting power upon a conquer'd or diſtreſ<g ref="char:EOLhyphen"/>ſed Enemy.<note n="†" place="margin">Marccll. in Plutarch.</note> The Maxime of that brave and heroick Martialliſt clo<g ref="char:EOLhyphen"/>ſeth well to our purpoſe. <hi>For va<g ref="char:EOLhyphen"/>lour
+<pb n="51" facs="tcp:115130:36"/>to triumph in the ruines of va<g ref="char:EOLhyphen"/>lour, were an Antipathy to na<g ref="char:EOLhyphen"/>ture.</hi>
+            </p>
+            <p>This it was, and nothing elſe which ſuggeſted to the active thoughts of this gracious Son-in-law, a faire occaſion of advancing his Fathers aimes: by bringing his <hi>Superiour</hi> in ſtile: and <hi>corrival</hi> in actions of honour, into a diſ<g ref="char:EOLhyphen"/>eſteeme, both with the <hi>Peerage</hi> and <hi>Commanty:</hi> for lower it could not fall. Was not this an excellent trick to catch the old one? He could not be leſſe then a cunning Enginier in affaires of policy, who infuſed theſe uſefull Notions firſt in <hi>Ireton.</hi> But yet give me leave to ac<g ref="char:EOLhyphen"/>quaint you with ſome other parti<g ref="char:EOLhyphen"/>culars highly conducing to the exe<g ref="char:EOLhyphen"/>cution of this odious deſigne: be<g ref="char:EOLhyphen"/>fore we deſcend to the laſt Sceane of this Tragicall Act.</p>
+            <p>There is ſmall doubt to be made, but the Generall could have wiſh'd Sir CHARLES LUCAS out of
+<pb n="25" facs="tcp:115130:37"/>the way. But he held his honour to be highly concern'd in it: To di<g ref="char:EOLhyphen"/>ſpatch an <hi>Enemy</hi> were he never ſo hoſtile to the <hi>State,</hi> being in the capacity of <hi>Mercy;</hi> though it were in the power of the Conquerour to do it: yet he might be ſure to in<g ref="char:EOLhyphen"/>cur a generall diguſt by it.</p>
+            <p>This made him more doubtfull what to conclude in a buſineſſe of that nature, as it look'd two ways at once; both on his <hi>revenge</hi> and <hi>ho<g ref="char:EOLhyphen"/>nour.</hi> Revenge prick't him on; but honour drew him off. In which demur, you may juſtly thinke that there was no time for IRETON to omit ſo pretious an opportu<g ref="char:EOLhyphen"/>nity.</p>
+            <p>Now, you are to underſtand how before the relation and ag<g ref="char:EOLhyphen"/>gravation of thoſe <hi>Crimes,</hi> pub<g ref="char:EOLhyphen"/>liquely objected againſt Sir CHARLES LUCAS, ſeverall hints to accelerate his diſpatch, were gi<g ref="char:EOLhyphen"/>ven of certain <hi>Grudges,</hi> or inveterate heats boyling in the breſt of the in<g ref="char:EOLhyphen"/>cenſed
+<pb n="53" facs="tcp:115130:37"/>
+               <hi>Generall,</hi> againſt that Noble <hi>Knight;</hi> ariſing in the firſt place from a <hi>defeate,</hi> which
+(ſo retentive is the memory of a paſſive diſgrace) he gave him heretofore in the <hi>North;</hi> and now had put him to ſo long a ſtand before COLCHE<g ref="char:EOLhyphen"/>STER, to the apparent hazard of his honour, being never before that time, ſo oppoſed; and the loſſe of the moſt conſiderable part of his Army, there left for memorable Trophies under the Wals; And (perhaps) of his EXCELLENCE too, if the ſhot had carried its in<g ref="char:EOLhyphen"/>tended level. Theſe grounds were ſufficient motives for this formerly-inſtructed <hi>Colonel,</hi> to purſue his aimes. He tels him, it would argue too much remiſſeneſſe for him to raze forth the memory of ſuch in<g ref="char:EOLhyphen"/>dignities as he had received from ſo braving and prejudiciall an Ene<g ref="char:EOLhyphen"/>my. If he did not wholy reflect upon his owne honour; which could not be too preciouſly tendred: Yet it
+<pb n="54" facs="tcp:115130:38"/>highly concern'd him, as he was their <hi>Generall,</hi> to look upon the ſlaughter of his Souldiers; whoſe reſolution in actions of deſperateſt ſervice, he had ſufficiently tryed. Beſides thoſe affronts and ſcorne<g ref="char:EOLhyphen"/>full Meſſages received from him; which could not chooſe but worke upon the ſpirit of any Comman<g ref="char:EOLhyphen"/>der. Neither could it be expoun<g ref="char:EOLhyphen"/>ded in the ſtricteſt ſenſe any act of cruelty; ſeeing there were more crimes publiquely objected againſt him, then any other aſſiſtants with him. His breach too, and violation of <hi>Parroll?</hi> which, as this <hi>Co<g ref="char:EOLhyphen"/>lonel</hi> preſſed, ſo highly trenched up<g ref="char:EOLhyphen"/>on his honour; as it admitted no excuſe. Theſe with many other in<g ref="char:EOLhyphen"/>centments he ſuggeſted to him: concluding, that there was more advantage in <hi>diſpatch</hi> then <hi>delay.</hi>
+            </p>
+            <p>But theſe were preparatives only to kindle the flame: and exaſperate the <hi>Generall</hi> againſt him; in whoſe commanding power now it was,
+<pb n="55" facs="tcp:115130:38"/>whether to Live or Die. And leſt theſe <hi>Irons</hi> wight coole, that were ſo purpoſely heated; Theſe <hi>Crimes</hi> were publiquely objected; which we ſhall here produce in order; very eaſily no doubt to be anſwe<g ref="char:EOLhyphen"/>red, if equall Moderators and un<g ref="char:EOLhyphen"/>byaſſed judgments might have de<g ref="char:EOLhyphen"/>termined them.</p>
+            <p n="1">1. <hi>That he was the head of the</hi> ESSEX <hi>Party, and the cauſe of drawing them within</hi> COLCHE<g ref="char:EOLhyphen"/>STER.</p>
+            <p n="2">2. <hi>That he was harſh and rigid to the Townes people;</hi> deafe to their complaints, and inſenſible of their wants; <hi>not regarding what miſery he brought upon the place of his Na<g ref="char:EOLhyphen"/>tivity.</hi>
+            </p>
+            <p n="3">3. <hi>That he did put two men to death</hi> (which deſerv'd a retaliation) <hi>after Quarter given, in cold blood.</hi>
+            </p>
+            <p>But ſhall we untwiſt theſe obje<g ref="char:EOLhyphen"/>ctions; yea, and in the looſing of them find ſuch <hi>eaſie knots</hi> in a <hi>diſloy<g ref="char:EOLhyphen"/>all ruſh,</hi> as they be no ſooner ſha<g ref="char:EOLhyphen"/>dowed
+<pb n="56" facs="tcp:115130:39"/>then diſplayed?</p>
+            <p>To the <hi>Firſt</hi> then, to branch them in their diviſions; why could it be held more criminall for him to convey his Army and Loyal con<g ref="char:EOLhyphen"/>tracted Forces thither; then it hath been formerly, upon occaſions of equall neceſſity, to other parts of the Kingdom? Neither was it his ſingle Perſonall act (as if ſolely in<g ref="char:EOLhyphen"/>tereſſed in it) but of the <hi>Councell of War,</hi> by which you well know all Agents in Military affaires, are uſu<g ref="char:EOLhyphen"/>ally regulated. And as for his be<g ref="char:EOLhyphen"/>ing chief of the <hi>Eſſex Forces,</hi> his <hi>in-bred modeſty</hi> ſought it not, but was elected by them, as his Campe approvements well deſerved, with a <hi>generall acclamation,</hi> at the firſt Rendezvouz.</p>
+            <p>To the <hi>Second,</hi> (as light in the skale as the <hi>firſt</hi>) it is Anſwered, and by thoſe that really know him, confirm'd, that none looked upon the <hi>Towne</hi> and <hi>Country</hi> with a more tender eye then him<g ref="char:EOLhyphen"/>ſelfe;
+<pb n="57" facs="tcp:115130:39"/>in ſo much as his extenſive bounty to them, prejudiced the whole <hi>Garriſon;</hi> enforcing them for want of better proviſion to fall to their Horſe-fleſh with other coorſe fare, ſooner then otherwiſe they needed have done: For when the Souldiers were ſent forth into the <hi>Country</hi> at the beginning, and before they were ſtraitly beleagred, to drive in Cattell, ſuch was his Noble compaſſion, as he would not ſuffer them to drive in more then their preſent neceſſity injoyned them to uſe from hand to mouth; till it was too late to improve their proviſion, the <hi>Towne</hi> being blockt up; and then all they got in, (to ſo ſmall a proportion was their ſtore reduced) as it ſerved not above ten dayes after. As for the <hi>Towneſmen,</hi> ſuch was his commiſe<g ref="char:EOLhyphen"/>ration of them, and liberality to<g ref="char:EOLhyphen"/>wards them, that he gave away to the poor 300 quarters of Corne, for otherwiſe they had been in a
+<pb n="58" facs="tcp:115130:40"/>condition to have ſtood upon <hi>better</hi> &amp; <hi>ſecurer Termes,</hi> with thoſe uncivil <hi>Mechanicks,</hi> who contrary to all rules of <hi>honour,</hi> and <hi>Martiall diſci<g ref="char:EOLhyphen"/>pline,</hi> would admit of no conditi<g ref="char:EOLhyphen"/>ons worthy the quality of <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> and <hi>Souldiers;</hi> who during the continuance of that waſting Siege, had behaved themſelves ſo gallantly, that they are admired for it in all parts of <hi>Chriſtendome,</hi> where the fame of their Actions have beene, or ſhall be diſper<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>To the <hi>third,</hi> (a meere ſcanda<g ref="char:EOLhyphen"/>lous fable) touching <hi>Killing</hi> men in <hi>cold blood,</hi> it is moſt falſe; it being Sir CHARLES his care, and expreſſe Command, that <hi>Free-quarter</hi> ſhould be given to all; though Their inhumanity to their; deſerved it not, for their hacking and hewing many <hi>naked</hi> men, after they had ſtript them; ſtifling and ſtarving ſo many by impriſonment, that more dyed through their cruell
+<pb n="59" facs="tcp:115130:40"/>uſage in <hi>Priſon,</hi> then in the Field.</p>
+            <p>Thus have you heard the Charge laid againſt this Noble Knight, and with what facility all ſuch Objections might be anſwered in defence of his honour and integri<g ref="char:EOLhyphen"/>ous carriage againſt all ſuch ground<g ref="char:EOLhyphen"/>leſſe aſpertions, as the malitious endeavours of his implacable Ene<g ref="char:EOLhyphen"/>mies have injuriouſly laboured out of the Forge of their own braine to caſt upon him. But if it were ſufficient to accuſe, without proof of what the Party is accuſed, who could be innocent? Truth is, it was eaſie to object, where the <hi>Defen<g ref="char:EOLhyphen"/>dant</hi> had no breath to reply: for you muſt know, as it is the cuſtome of this Age to be ever acting the <hi>Antipodes;</hi> both this gallant Gen<g ref="char:EOLhyphen"/>tleman Sir CHARLES, and his Valliant friend Sir GEORGE LISLE, whom we are to treat of hereafter; were both ſhot to death before theſe Objections were ever produced. A ſingular and unpreſi<g ref="char:EOLhyphen"/>dentall
+<pb n="60" facs="tcp:115130:41"/>forme of Juſtice; to ſen<g ref="char:EOLhyphen"/>tence him firſt, and accuſe him af<g ref="char:EOLhyphen"/>ter. Or as ſevere <hi>Sylla,</hi> uſed to practice upon his profeſt Foes; firſt to adjudge them to death, and then to invent ſuch crimes as they were never guilty of, to attemper the quality of their deaths, and convert his cruelty to an opinion of clemency: for inflicting upon them, ſuch eaſie deaths, for ſuch hainous and heavy crimes.</p>
+            <p>There is ſmal doubt, but theſe Horſe-leaches, who never fall off till they be ſated with blood, have that old <hi>Maxim</hi> ſtill in readineſſe. The <hi>Mercy</hi> that is ſhewne to the <hi>Wicked,</hi> is <hi>Cruelty</hi> to the <hi>Innocent.</hi> The <hi>Indulgence</hi> afforded <hi>thoſe,</hi> re<g ref="char:EOLhyphen"/>dounds to the prejudice of <hi>theſe.</hi> The <hi>ſparing</hi> of the <hi>Evill,</hi> is the <hi>ſpoiling</hi> and <hi>ſpilling</hi> of the blood of the <hi>Good.</hi> But what miſerable times are we fallen into, when theſe cruell and inhumane Actors muſt be<g ref="char:EOLhyphen"/>come our Cenſors, when the ſuc<g ref="char:EOLhyphen"/>ceſſe
+<pb n="61" facs="tcp:115130:41"/>of <hi>Armes,</hi> be it never ſo preju<g ref="char:EOLhyphen"/>diciall to the purſuit of a ſafe and well-grounded peace, muſt deter<g ref="char:EOLhyphen"/>mine the Cauſe: And an <hi>inſucceſ<g ref="char:EOLhyphen"/>ſive day,</hi> though it took ſpirit from clearer and juſter rayes, ſet in a cloud? But theſe are ſecrets reſer<g ref="char:EOLhyphen"/>ved for an <hi>higher Conſiſtory;</hi> it is ſafer to admire them, then too boldly to dive into the depth of them.</p>
+            <p>We will now briefly deſcend to ſuch Objections (impertinences rather) as were produced and preſſed againſt Sir GEORGE LISLE; but not till ſuch time as he was dead: for then theſe <hi>impoyſoned arrowes</hi> may be the ſafelieſt ſhot, when theſe malitious <hi>Marks-men</hi> finde the <hi>Archer</hi> at whom they aim'd, diſabled to re<g ref="char:EOLhyphen"/>turne his ſhot, or ſhaft upon them.</p>
+            <p>Firſt then, to render Him his due Character; he was a Man, whoſe brave undaunted ſpirit <hi>dignifi?d</hi> his
+<pb n="62" facs="tcp:115130:42"/>
+               <hi>Family,</hi> many ſtories high in the eſtimate of Fame. One, whom theſe <hi>Civill-wars</hi> had ſufficiently experienc'd and inabled for any Field ſervice. One, who to his higher honour, beſtowed his ap<g ref="char:EOLhyphen"/>provedſt endeavours in teſtimony of his Allegeance. For his yeares, he was an excellent diſtinguiſher of Societies; uſing ever to conſort with thoſe moſt, where he hoped to be improved beſt. Theſe riſing, nay, ripening thoughts could not chuſe but beget envy with ſuch as were Foes to Loyalty. For mens <hi>abilit es</hi> are generally <hi>eye-ſores</hi> to their Enemies. Notwithſtanding all this, ſo clear and unqueſtion'd did his carriage appeare, as he was accuſed onely in generall termes of being a <hi>perſon of much miſchief,</hi> debauch'd converſation, and of <hi>burning the Suburbs.</hi> Calumnies all alike true. For his <hi>diſpoſition,</hi> it was generous, pleaſing, and natu<g ref="char:EOLhyphen"/>rally bounteous; full of valour,
+<pb n="63" facs="tcp:115130:42"/>without oſtentation; juſt and cheerfull in his Commands, with<g ref="char:EOLhyphen"/>out a ſurly imperiouſneſſe. Infinit<g ref="char:EOLhyphen"/>ly belov'd and obſerv'd by his Souldiers; for ſo tender was he of their ſafety: as never to the houre of his death would he ingage them in that action; where<g ref="char:EOLhyphen"/>in he would not hazard his owne perſon. This might appear by his gallantry at the latter Fight at <hi>NEWB<g ref="char:V">Ʋ</g>RY,</hi> where to ani<g ref="char:EOLhyphen"/>mate his <hi>Souldiers,</hi> &amp; beget in them an Emulation of valour, ſo bravely repreſented in their <hi>Commander;</hi> he marched before his men in his <hi>Shirt</hi> with his doublet put off, to the face of the Enemy. Where he perform'd ſuch admirable ſervice, as His <hi>Majeſty</hi> took eſpeciall ob<g ref="char:EOLhyphen"/>ſervation of him. And for a pledge of his future favour, beſtow'd upon him the honour of Knight-hood: with all other places wherein he was in his Commands imployed, &amp; to his ſucceeding honour highly
+<pb n="64" facs="tcp:115130:43"/>approv'd. Secondly, for his <hi>bur<g ref="char:EOLhyphen"/>ning the Suburbs:</hi> his <hi>accuſers</hi> were the principall <hi>Actors.</hi> For they began firſt, (when they deſpair'd of taking the <hi>Town</hi> by <hi>Storme</hi>) to fall to fie<g ref="char:EOLhyphen"/>ring of the Houſes near one of the Gates, which (as the winde ſtood) muſt have burnt down the whole <hi>City,</hi> had it not been prevented by the aſſiduate care, and timely induſtry of the <hi>Souldiery.</hi> After<g ref="char:EOLhyphen"/>wards (to continue their fury) they fiered many places, but all in vaine: being by the vigilancy of the Gar<g ref="char:EOLhyphen"/>riſons, no ſooner fiered then quen<g ref="char:EOLhyphen"/>ched. At length, having ſheltred themſelves under Houſes, and taken the Lord LUCAS Houſe (now pitifully ruinated and de<g ref="char:EOLhyphen"/>fac'd) with many other about it, the ſeverall <hi>Regiments</hi> being other<g ref="char:EOLhyphen"/>wiſe unable to make good and juſtrfie their <hi>Lines,</hi> were neceſſita<g ref="char:EOLhyphen"/>ted to burne the adjoyning <hi>Hou<g ref="char:EOLhyphen"/>ſes.</hi> In which action, neither Sir CHARLES, nor Sir GEORG
+<pb n="65" facs="tcp:115130:43"/>gave any orders or conſent. And to ſatisfie the jealouſies of <hi>ſome</hi> touching this particular buſineſſe, it is clear, Sir GEORGE LISLE was no Actor in it, becauſe on that part of the <hi>Towne,</hi> where the <hi>Eſſex</hi> foot lay, (whereof he was <hi>Major<g ref="char:EOLhyphen"/>generall</hi>) few houſes were burnt. As for his being <hi>miſchievous</hi> (for<g ref="char:EOLhyphen"/>merly objected, and fully anſwe<g ref="char:EOLhyphen"/>red) he was no more then in his Actions as a Souldier: In which his Gallantry was unparallel'd, and would have merited from an ho<g ref="char:EOLhyphen"/>nourable <hi>Enemy,</hi> a more honoura<g ref="char:EOLhyphen"/>ble entertainment then to be preſented a ſufferer in ſo tragicall a Story.</p>
+            <p>Now touching Colonell FAR, (though our diſcourſe principally reflect upon thoſe two noble Gen<g ref="char:EOLhyphen"/>tlemen formerly mentioned) yet being an uſefull Aſſiſtant in this Service, we are not, as we obvi<g ref="char:EOLhyphen"/>ouſly meet with him, to neglect him.</p>
+            <p>He was accuſed for drawing the
+<pb n="66" facs="tcp:115130:44"/>
+               <hi>Trained-bands</hi> together, under pre<g ref="char:EOLhyphen"/>tence of an ordinary <hi>Muſter,</hi> not diſcovering to them, that they ſhould ingage in <hi>Blood.</hi> This Accu<g ref="char:EOLhyphen"/>ſation, weigh it ſeriouſly, and it may be anſwered with ſmall diffi<g ref="char:EOLhyphen"/>culty. For when the Ordinance of <hi>Indempnity</hi> was ſent down from the <hi>Houſe,</hi> upon condition they would quit their Armes, Colonell FAR onely read it in the head of e<g ref="char:EOLhyphen"/>very Company, from the firſt to the laſt; and when he had read it, de<g ref="char:EOLhyphen"/>manded whether they would accept? But they all with one voyce, and <hi>loud ſhouts,</hi> (obſerve their promptneſſe to this Service in their firſt entrance) cried it down, not ſo much as one perſon diſpu<g ref="char:EOLhyphen"/>ted it, or conſenting to it. Then this <hi>Colonell</hi> ſeeing their <hi>joynt Reſo<g ref="char:EOLhyphen"/>lutions,</hi> with thoſe apparent grounds of Loyalty, whereto he adhered, declared himſelfe, and not before.</p>
+            <p>This was no raiſing of Armes,
+<pb n="67" facs="tcp:115130:44"/>but a propoſing of their Ordinance: from which if they diſſented, it was not his fault, but the deep appre<g ref="char:EOLhyphen"/>henſion and reſentment of their wrongs. And blame them not; for when a wounded Patient opens his wounds, and is rejected by that hand where he may be cured; he muſt needs hold him either a negli<g ref="char:EOLhyphen"/>gent, or incompaſſionate Artiſt that leaves him remedileſſe, by ſuffering his ſore to rankle or gangreene, when it was in his power to allay his grief, or to cure it. This was the <hi>caſe</hi> of that <hi>County;</hi> They opened their wounds, they diſcovered their griefs, they applyed themſelves to the <hi>Parliament</hi> for redreſſe; but their <hi>ſuite</hi> produ<g ref="char:EOLhyphen"/>ced no <hi>cure.</hi> That uſuall comple<g ref="char:EOLhyphen"/>ment of thanks was returned them for their care: and ſo dimiſs'd in no better condition then when they came. Such fruitleſſe effects did thoſe <hi>County Petitions</hi> returne to their <hi>abuſed Patients.</hi>
+            </p>
+            <pb n="68" facs="tcp:115130:45"/>
+            <p>This it was which commenced that quarrell: which if aſſiſtant Counties had ſeconded, as they ſtood both by promiſe engaged, and their owne intereſts intruſted, might have redounded more to their advan<g ref="char:EOLhyphen"/>tage then any probable opportuni<g ref="char:EOLhyphen"/>ty (unleſſe ſome ſucceſſefull influ<g ref="char:EOLhyphen"/>ence be derived from this preſent <hi>Treaty</hi>) will in an age afford them.</p>
+            <p>As for Sir BERNARD GAS<g ref="char:EOLhyphen"/>COYN; they were to be commen<g ref="char:EOLhyphen"/>ded for their civility, in reprieving him, he being a ſtranger and an <hi>Ita<g ref="char:EOLhyphen"/>lian.</hi> But never did any Savage Na<g ref="char:EOLhyphen"/>tion, were it <hi>Turkiſh</hi> or any other Heathen, execute the like tyran<g ref="char:EOLhyphen"/>ny and cruelty, upon ſuch frivo<g ref="char:EOLhyphen"/>lous pretences (as is well obſerved) in <hi>cold Blood.</hi> Now the occaſionall motive of the Garriſons yeilding to Mercy was as followeth; Having made an end of all their Proviſion; nay even of thoſe creatures which Nature (had not a long Siege brought them to extreame indi<g ref="char:EOLhyphen"/>gence)
+<pb n="69" facs="tcp:115130:45"/>would have wholly loathed to make food on: and in this exi<g ref="char:EOLhyphen"/>gent, having no offer of conditions from the Enemy (who had ſuffici<g ref="char:EOLhyphen"/>ent intelligence of their neceſſity) but ſuch as were moſt ignoble; the <hi>Officers</hi> being reſolved either to purchaſe their liberty in deſpight of the Enemy, or to ſell their lives at as dear a rate as they could, pro<g ref="char:EOLhyphen"/>pounded to the <hi>Souldiers</hi> a reſoluti<g ref="char:EOLhyphen"/>on to breake through; which being approved by the greater part, they ſigned this enſuing Ingagement.</p>
+            <p>
+               <hi>We whoſe names are here under-Written, do (in the preſence of Al<g ref="char:EOLhyphen"/>mighty God) protest againſt all con<g ref="char:EOLhyphen"/>ditions, that are or ſhall be ſent by the Enemy, by which our liberties may be infringed, and our honour blaſted: And we do upon our honours ſolemnely ingage our ſelves, not to deſert one another, nor the Foot, till by Gods aſſiſtance, we have forc'd our paſſage through all that ſhall oppoſe us, or to periſh in the Act: Which we atteſt this</hi> 23 <hi>of</hi> Auguſt. 1648.</p>
+            <pb n="70" facs="tcp:115130:46"/>
+            <p>This concluſion reflecting ſo di<g ref="char:EOLhyphen"/>rectly upon the preſervation of their honour: deſiring nothing more then to make way for their ſafety by their ſwords: and by that meanes to decline the ſurprize of a mercileſſe Foe; was reſolved to be put in execution by the <hi>Coun<g ref="char:EOLhyphen"/>cell of War,</hi> on <hi>Friday</hi> night, <hi>Aug.</hi> 25. But when all was in readineſſe, and nothing more expected then the purſuit of this attempt; Some of the Greateſt diſſenting from that opinion, hindred the proceeding: pretending that the deſigne in hand might be acted with no leſſe conve<g ref="char:EOLhyphen"/>niency the next day. The reaſon whereof is diverſely argued: for this frivolous delay, and in their reſpects, highly prejudiciall, might be imputed either to a remiſneſſe of ſpirit; or a falling off in their affections from the Commanders: So apt is the miſ-guided zeale of ſome to diſtemper the beſt intenti<g ref="char:EOLhyphen"/>ons. Schiſmes in ſubjects of <hi>faith,</hi>
+               <pb n="71" facs="tcp:115130:46"/>have ever bred the greateſt diſtra<g ref="char:EOLhyphen"/>ctions in reſolutions or debates of <hi>State,</hi> whether publiquely or pri<g ref="char:EOLhyphen"/>vately grounded. We ſhall ever find in theſe, ſuch <hi>ſpirits</hi> of <hi>contra<g ref="char:EOLhyphen"/>diction:</hi> as they affect nothing more then to <hi>oppoſe,</hi> though they can ren<g ref="char:EOLhyphen"/>der no other cauſe ſave onely their diſguſt to the <hi>perſon,</hi> who was the <hi>propoſer.</hi> This the Poet quickly ob<g ref="char:EOLhyphen"/>ſerved;
+<q>
+                  <l>Theſe <hi>mixt zeales</hi> do ever bring</l>
+                  <l>Ruine to Subject, State and King.</l>
+                  <bibl>
+                     <hi>LUCIL.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>Diſ-affection being ever a broa<g ref="char:EOLhyphen"/>cher of different opinions: and generally ſeconded by as unhappy concluſions. The <hi>Beſiegers,</hi> all this while, wanted not their active <hi>Tea<g ref="char:EOLhyphen"/>zers</hi> and inſtruments within, to per<g ref="char:EOLhyphen"/>ſwade the Common Souldiers (whoſe higheſt pitch was <hi>perſonall ſafety</hi>) that the <hi>Gentry</hi> had reſolved before next morning to quit them.
+<pb n="72" facs="tcp:115130:47"/>Theſe <hi>ſuggeſted whiſperings</hi> bred a moſt dangerous <hi>Mutiny,</hi> which put the <hi>Gentlemen</hi> in that Engagement to ſuch an <hi>extaſie,</hi> being by the di<g ref="char:EOLhyphen"/>viſions wholly deprived of all meanes of ſafety and hope by their Valour to eſcape the Enemy: be<g ref="char:EOLhyphen"/>cauſe it was not poſſible for <hi>Horſe</hi> to break through the <hi>Line</hi> without <hi>Foot,</hi> and <hi>Pioners;</hi> as they were conſtrained to <hi>yeild</hi> (O comfort<g ref="char:EOLhyphen"/>leſſe refuge!) after a twelve weeks Siege unto the Mercy of thoſe Mer<g ref="char:EOLhyphen"/>cileſſe Foes, who ſport themſelves in the ruines and triumphs of ho<g ref="char:EOLhyphen"/>nour: Delighting to inbath their remorſeleſſe hands in the purple ſtreamings of this unfortunate Iſ<g ref="char:EOLhyphen"/>land: and like eagre <hi>Nimrods,</hi> to hunt for the precious life, and blood, (by the direction of their <hi>diametricall leavell</hi>) of all the <hi>No<g ref="char:EOLhyphen"/>bility</hi> and <hi>Gentry</hi> of <hi>England.</hi>
+            </p>
+            <p>Thus have you heard how theſe <hi>unſubdued ſpirits</hi> were inforced to yeild by meanes of that <hi>Mutinous
+<pb n="73" facs="tcp:115130:47"/>rout:</hi> Neither indeed (to uſe the <hi>Comedians</hi> words) could any thing leſſe be expected;
+<q>
+                  <l>From a raw promiſcuous rude</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ncivilized Multitude.</l>
+                  <bibl>
+                     <hi>AFRAN.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>Upon theſe particulars of this diſ<g ref="char:EOLhyphen"/>courſe we have inſiſted the longer, purpoſely to returne ſatisfaction to ſundry perſons of quality; who have deſired much to receive a certaine relation not onely of thoſe occurrents during their Siege: but of the reaſons of their yeilding after ſo long debate and joynt re<g ref="char:EOLhyphen"/>ſolution of fighting to the laſt man, and acquitting themſelves of the Enemy, or dye with honour.</p>
+            <p>Thus much may ſuffice, being re<g ref="char:EOLhyphen"/>ceived from one that was an <hi>Eye-Witneſſe,</hi> and a Perſon of honour ingaged in the buſineſſe.</p>
+            <p>Now are we to deſcend to the laſt <hi>Sceane</hi> of this <hi>Tragick</hi> Act. An
+<pb n="74" facs="tcp:115130:48"/>
+               <hi>Act</hi> of <hi>honour</hi> to the <hi>Sufferers;</hi> but of <hi>horror</hi> to the <hi>Actors.</hi> And herein take a ſerious ſurvey of every <hi>paſ<g ref="char:EOLhyphen"/>ſage</hi> and <hi>poſture</hi> in theſe two Noble Knights before they tooke their laſt farewell of the! world. What a chereefull and magnanimous reſolu<g ref="char:EOLhyphen"/>tion their gracefull deportment gallantly preſented, upon their ſud<g ref="char:EOLhyphen"/>daine doome to ſuddaine death! Though the Meſſage of death be the terribleſt Summons that can come to Nature; yet you ſhall hear how bravely it may be entertained by Chriſtian Valour. Such fame-ſprea<g ref="char:EOLhyphen"/>ding <hi>Palms</hi> cannot be preſt ſo low, but they will mount higher.</p>
+            <p>
+               <hi>Ireton,</hi> that meſſenger of <hi>Ire,</hi> was the man which brought them the <hi>newes.</hi> Upon whoſe entrance and Meſſage Sir CHASLES LUCAS with much cheerefulneſſe and ala<g ref="char:EOLhyphen"/>crity demanded by what <hi>Autheri<g ref="char:EOLhyphen"/>ty, whether by an Ordinance of Par<g ref="char:EOLhyphen"/>liament, or a Councell of War, or the command of the Generell?</hi>
+               <pb n="75" facs="tcp:115130:48"/>IRETON anſwered, it was by <hi>Or<g ref="char:EOLhyphen"/>dinance of Parliament,</hi> declaring all ſuch as ſhould be found in Armes, to be proceeded againſt as Traytors and Rebels, &amp;c. Whereat Sir CHARLS replyed
+(ſmiling in ſcorne) <hi>Alas poor ſouls, how ye deceive your ſelves! As if the juſt defence of the Antient Laws, Liberties, and Priviledges of a Kingdom: the advancement of the ſtyle and Prerogative of our</hi> SO<g ref="char:EOLhyphen"/>VERAIGNE, <hi>were in the capa<g ref="char:EOLhyphen"/>city of</hi> TREASON <hi>or</hi> REBELLI<g ref="char:EOLhyphen"/>ON! <hi>But We that are conquered muſt be What you peaſe to make us.</hi> And deſiring time but to live but till Tueſday morning, that they might not enter the <hi>Liſts</hi> before they were made ready for the en<g ref="char:EOLhyphen"/>counter: nor <hi>be thruſt out of the World on a ſudden with all their ſins about them;</hi> it was denied: Which no Chriſtian heart indued with hu<g ref="char:EOLhyphen"/>manity would have done for a world. Upon wich deniall Sir
+<pb n="76" facs="tcp:115130:49"/>CHARLES replyed; <hi>Do not thinke I wiſh this out of any deſire to live, or eſcape that death I am doom'd to; for were life a thouſand times preciouſer then it is, I ſhould ſcorne the eſtimate of it, being taken at your hands; But I have ſome addreſſes to make, ſome peace-offerings to preſent to God above; and alſo to ſome rela<g ref="char:EOLhyphen"/>tions here below, if I might have a little time; but ſince it will not be, the will of God be done and I am rea<g ref="char:EOLhyphen"/>dy for Execution.</hi>
+               <note n="†" place="margin">
+                  <hi>IRETON</hi> after ſuch time as he had denied him this civill curteſie; told him how he had brought a long with him the <hi>Generals Chaplaius</hi> to adviſe, comfort and prepare him before his end; if he were pleaſed to make uſe of them: But he an<g ref="char:EOLhyphen"/>ſered, he deſired none of them; craving onely for his <hi>Spirituall helpe</hi> ſo much fa<g ref="char:EOLhyphen"/>vour, that the Lord <hi>CAPELS</hi> Chap<g ref="char:EOLhyphen"/>laine might be admitted to him; to whom he could more freely communicate his thoughts, and diſcover his griefes. Which was granted.</note> At ſeaven a clock at night, they were both brought forth to be be ſhot; at the place appointed they ſhewed
+<pb n="77" facs="tcp:115130:49"/>themſelves of undaunted Reſoluti<g ref="char:EOLhyphen"/>ons. Their courage and counte<g ref="char:EOLhyphen"/>nance the ſame, when the actors of their Execution preſented them<g ref="char:EOLhyphen"/>ſelves before them. <hi>Ireton,</hi>
+               <note n="†" place="margin">Theſe <hi>Aſſaſsinats,</hi> who triumph in the ruines of honour; and imbrue their hands in the untainted blood of Loyall Valour; muſt expect an heavie cenſure. For as they make <hi>humanity</hi> a ſtranger to their <hi>Na<g ref="char:EOLhyphen"/>ture;</hi> So are they ſeldome knowne to die <hi>naturall deaibs.</hi> God has already ſhowne his judgment on <hi>Rainsborough.</hi> Obſequies, be they ſo<g ref="char:EOLhyphen"/>lemnized with never ſo much magnifi<g ref="char:EOLhyphen"/>cence; though they beſtow ſumptuous Lodgings upon their Corpſe; They can<g ref="char:EOLhyphen"/>not expiate the memory of their crimes: nor with innocence cloathe a guilty cauſe. The more God defers; the more he in<g ref="char:EOLhyphen"/>fers.</note> 
+               <hi>Rainſ<g ref="char:EOLhyphen"/>borough,</hi> and <hi>Whaley</hi> (who is repor<g ref="char:EOLhyphen"/>ted to have ſhewne himſelfe more generouſly diſpoſed, (notwithſtan<g ref="char:EOLhyphen"/>ding that former diſguſt betwixt him and Sir <hi>GEORGE LISLE</hi>) in diſſwading the <hi>Generall</hi> from this inconſiderate
+<pb n="78" facs="tcp:115130:50"/>Act) came to be <hi>Spectators</hi> as well as <hi>Actors</hi> in this inhumane Tra<g ref="char:EOLhyphen"/>gedy; whom Sir <hi>Charles</hi> told, <hi>that he had often lookt death in the face, both publique and private, and now they ſhould ſee he was not affraid to die.</hi>
+            </p>
+            <p>Having retired himſelfe a while in prayer, with a pious &amp; humble com<g ref="char:EOLhyphen"/>mendation of his ſoul into the hands of God, he ſtood up, as one who meant to entertaine the ſtroake of Death with a reſolute Station. And with a kinde of Religious in<g ref="char:EOLhyphen"/>dignation (for never was paſſion in ſuch a <hi>ſpirit</hi> more ſweetly ſubdued) pulling downe his <hi>Hat,</hi> ſetting his Armes a <hi>Kembow,</hi> (that was his poſture) &amp; tearing open his <hi>Doublet,</hi> he expoſed his naked Breſt (where<g ref="char:EOLhyphen"/>in ſuch <hi>matchleſſe Valour</hi> and <hi>Loyall Honour</hi> had been lodged) and cry<g ref="char:EOLhyphen"/>ing out, <hi>Now Rebels do your worſt,</hi> he was immediately diſpatched.</p>
+            <p>His ſorrowfull Servant, a ſad ſpectator of his Death, was ſurpri<g ref="char:EOLhyphen"/>zed with ſuch paſſion for the loſſe
+<pb n="79" facs="tcp:115130:50"/>ſo deare a Maſter, as he earneſtly beſought thoſe Executioners to diſ<g ref="char:EOLhyphen"/>patch him too: for life was to him a torment.</p>
+            <p>A Gentleman of quality, and diſ<g ref="char:EOLhyphen"/>ciplin'd in Service and Commandes abroad, being preſent at his death; upon his returne hither to the City, proteſted in the company of ſundry perſons of account; <hi>That he had in his time ſeene many die, but never any with more Chriſtian nor Souldier<g ref="char:EOLhyphen"/>like reſolution.</hi> Adding theſe words: <hi>That it Was a great pitty that a Va<g ref="char:EOLhyphen"/>liant man ſhould fall into the hand of ſuch an Enemy, as preferred revenge before an act of mercy.</hi> Sir GEORGE LISLE's turne was next; who beholding that ſad ſpectacle, the dead Body of his deareſt friend, fell upon it and kiſſed it, as if he meant to breath into it another ſoule: Not a paſſionate expreſſe, but bedewed with a Funerall teare: with a free, but true relation of his vertues and indowments, of
+<pb n="80" facs="tcp:115130:51"/>which this ungratefull Nation was not worthy. Often would he re<g ref="char:EOLhyphen"/>double theſe words: <hi>In how ſhort a moment has a brave ſpirit expired! well; this priority was due to thee, but I ſhall not be long behind thee: my death which is now at hand, ſhall reſtore thee to me.</hi>
+            </p>
+            <p>
+               <hi>This, with the aſſured hopes I have in Him that made me, ſhall make my tranſlation cheerfull. My divorce from ſuch a friend injoynes me to ha<g ref="char:EOLhyphen"/>ſten to him.</hi>
+            </p>
+            <p>
+               <hi>It is not death I fear, had I a thou<g ref="char:EOLhyphen"/>ſand lives, I ſhould willingly</hi> Sacri<g ref="char:EOLhyphen"/>fice <hi>them all, to confirme my Lyoalty.</hi> After this, ſtanding up, and taking <hi>five pieces</hi> of <hi>Gold</hi> out of his <hi>pocket,</hi> (being all he had left) he gave one to his <hi>Executioners,</hi> and the other <hi>foure</hi> he ſent to <hi>foure friends</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> Then turning to the ſtanders by, he ſaid; <hi>Oh how many do I ſee here about me, whoſe lives I have ſaved in</hi> hot blood; <hi>and now muſt mine be taken away in cold blood moſt
+<pb n="81" facs="tcp:115130:51"/>barbarouſly! Sure the like was never heard of among the</hi> Goths <hi>and</hi> Van<g ref="char:EOLhyphen"/>dals, <hi>or the verieſt</hi> Barbarians <hi>in the World in any Age. But what dare not thoſe</hi> Rebels <hi>and</hi> Traytors <hi>do, that have Impriſoned, and could wil<g ref="char:EOLhyphen"/>lingly cut the throat of their King? for whoſe deliverance from His Enemies; and Peace to this diſtracted King<g ref="char:EOLhyphen"/>dom, theſe my laſt Prayers ſhall be preſented. — Now then</hi> Rebels <hi>and</hi> Traytors <hi>do your worſt to me.</hi> After which words, and a few <hi>in<g ref="char:EOLhyphen"/>vocations</hi> upon the Name of <hi>Jeſus,</hi> he was alſo diſpatched, as he ſtood in an <hi>heroick</hi> poſture, courting <hi>grim death</hi> with a ſpritely countenance, and a greedy expectation.</p>
+            <p>Thus fell this matchleſſe paire of <hi>Worthies;</hi> and in them <hi>Their</hi> Honour, who adjudg'd them to ſo injurious a cenſure. For what in<g ref="char:EOLhyphen"/>ducing reaſons there were or might be alledg'd, to move their impla<g ref="char:EOLhyphen"/>cable <hi>Enemies</hi> to this un-Military preſident of cruelty no intelligence,
+<pb n="82" facs="tcp:115130:52"/>were it never ſo colourably pallia<g ref="char:EOLhyphen"/>ted by their own Favourites, could ever yet appear ſo reall, as to re<g ref="char:EOLhyphen"/>turne ſatisfaction to any clear or equally-ballanced judgement.</p>
+            <p>So far as may concerne their perſonall worth; they ſhall little neede to be either further diſ<g ref="char:EOLhyphen"/>played or diſtinguiſhed: For Sir CHARLES, he was known to be an accompliſh'd Souldier; an high prizer of his honour; a perfect Maſter both of the ancient and moderne <hi>Militia;</hi> accounted as eminent in the Command of Horſe (a ſervice wherein he had been ever imployed, and ſingularly improved) as the moſt experien'd Commander in Europe.</p>
+            <p>Being in a word, ſuch a Man of men, and Patterne of active Loy<g ref="char:EOLhyphen"/>alty, as he was all, that Sir GEO: LISLE, in a gallant emulation aimed to be; whom, as he dearly tendred, ſo he ſeriouſly imitated, and now in the end, nearly ſecon<g ref="char:EOLhyphen"/>ded;
+<pb n="83" facs="tcp:115130:52"/>being reputed a moſt know<g ref="char:EOLhyphen"/>ing and obliging <hi>Commander</hi> for the <hi>Infantry:</hi> and of ſuch diſcipline and courage that he led them, as in a <hi>line</hi> upon any ſervices, through the greateſt danger and difficul<g ref="char:EOLhyphen"/>ty. This was the ready way to make fame the foundation of a Family: Seeing nothing can be properly ſaid to be Ours, but what takes life from the merit or repute of thoſe actions of Ours: For whatſoever is <hi>derived</hi> to us from Ours; is Others, and not Ours: Give me leave then in be<g ref="char:EOLhyphen"/>halfe of this noble Paire, to ſumme up all with this poſitive Conclu<g ref="char:EOLhyphen"/>ſion: <hi>He ſhoots his ſhafts at the Moone, who out of a Malignant humour, makes it his labour to dar<g ref="char:EOLhyphen"/>ken the Splendor of goodneſſe and honour.</hi>
+            </p>
+            <p>It is ſaid, when His <hi>Majeſty</hi> heard the newes of their Deathes; that out of a pious compaſſion, and princely affection which He bare
+<pb n="84" facs="tcp:115130:53"/>to their perſons, He burſt forth into teares: which that <hi>Hebrew Intelligencer</hi> interprets ſoftneſſe or effeminacy: as if it beſeem'd no virile ſpirit to compaſſionate the loſſe of a friend. Whereas if that ſeditious <hi>Rabbi</hi> had ever repair'd to thoſe <hi>Tents</hi> of <hi>Iſrael,</hi> whereto he ſometimes incouraged the <hi>People</hi> againſt their Soveraign; He might have ſeene a <hi>David</hi> (that Conquerour of <hi>Goliah</hi>) ſhed teares for an <hi>Abſolon</hi> and a <hi>Jonathan.</hi> Our <hi>beſt Maſter</hi> for a <hi>Lazarus,</hi> and the approaching ruines of a <hi>Hieru<g ref="char:EOLhyphen"/>ſalem.</hi> Nay, if ever his ſmall portion of learning would have ſuffer'd him to have been vers'd in prophane Hiſtories: He might have found <hi>Marcellus</hi> eyes dropping teares for <hi>Syracuſa.</hi> That ſweet-temper'd <hi>Tytus</hi> for the miſeries of <hi>Judea.</hi> Variety of Examples in all Stories, what ſingular arguments of Prince<g ref="char:EOLhyphen"/>ly compaſſion, eminent'ſt perſo<g ref="char:EOLhyphen"/>nages even in their greateſt Victo<g ref="char:EOLhyphen"/>ries
+<pb n="85" facs="tcp:115130:53"/>have expreſſed towards thoſe Princes, or People whom they had Conquered.</p>
+            <p>But ſuch as are not capable of ſenſe in their pate, nor pen, may be held excuſed, if they fall ſhort in their apprehenſion of humane ſuf<g ref="char:EOLhyphen"/>fering, nay, of common ſenſe; They, whoſe incompaſſionate hearts are ſo congealed, as their eyes know not how to reſolve into teares, when they ſee reall Profeſ<g ref="char:EOLhyphen"/>ſors of Valour expoſed to immeri<g ref="char:EOLhyphen"/>ted cenſures; eſpecially when a <hi>good Cauſe</hi> was the Object of their reſolution; partake too much of <hi>Savage</hi> to retein the <hi>Stile</hi> of <hi>Men.</hi> Seeing, as the Comick well obſer<g ref="char:EOLhyphen"/>ved, <hi>nothing that is humane, ſhould be eſtranged from humanity.</hi>
+            </p>
+            <p>What uncivill and diſgracefull af<g ref="char:EOLhyphen"/>fronts were preſſed by the <hi>Conque<g ref="char:EOLhyphen"/>ring Party,</hi> upon the poor <hi>Captives,</hi> I ſhall very ſparingly relate: to paſſe by others, this one Inſtance ſhall ſerve for all. A Gentleman of qua<g ref="char:EOLhyphen"/>lity
+<pb n="86" facs="tcp:115130:54"/>being preſently after Surprize of the <hi>Town,</hi> ſtript of his Apparrell to his skin: &amp; poor ragged cloathes of a <hi>Common ſouldier</hi> given him in exchange. Nevertheleſſe, in this un<g ref="char:EOLhyphen"/>gentile habit, he was adviſed by one who pretended himſelf his friend, to repaire to the <hi>Generall,</hi> where he promiſed him acceſſe, to petition his <hi>Excellencies</hi> favour for his <hi>Parol,</hi> that he might, by that means, labour his <hi>inlargement</hi> either by <hi>Exchange</hi> or <hi>Money.</hi> Thither he came in this tatter'd habit, with an old brimleſſe Hat, and Boots that had eſtrang'd themſelves from their Soales; which, when that brave inſulting <hi>Conquereſſe</hi> beheld, She was pleaſed out of her femi<g ref="char:EOLhyphen"/>nine ſpirit to entertaine this <hi>diſtreſ<g ref="char:EOLhyphen"/>ſed petitioner</hi> with this ſcornfull Sa<g ref="char:EOLhyphen"/>lute: <hi>Is this one of your Gentlemen of Colcheſter?</hi> when the boſome of the ſofter and more compaſſio<g ref="char:EOLhyphen"/>nate 'Sexe became ſo ſteeled, what might be lookt for at their hands,
+<pb n="87" facs="tcp:115130:54"/>with whom remorce had never acquaintance?</p>
+            <p>Now I appeal to your candid Cenſures, who ſcorn to be <hi>Servants</hi> to the <hi>Time,</hi> or <hi>Shadows</hi> to <hi>unjuſt Conqueſts;</hi> what clemency could be expected by their <hi>Captives</hi> from ſuch <hi>imperious Enemies</hi> to be ſhewn them in reſpect of their lives: whoſe prophane hands abſtained not from violation of thoſe juſt obſe<g ref="char:EOLhyphen"/>quious honours done to the dead? Amongſt our Ancient Heathens, this was a Crime admitted no par<g ref="char:EOLhyphen"/>don. Yet obſerve one paſſage more, and you ſhall ſee with what impu<g ref="char:EOLhyphen"/>nity theſe mercileſſe times can di<g ref="char:EOLhyphen"/>ſpence with the inhumaneſt actions. Not to hold you in ſuſpence, it was thus. The body of that noble and e<g ref="char:EOLhyphen"/>ver memorable Knight, Sir CHAR: being to be buried with his <hi>An<g ref="char:EOLhyphen"/>ceſtors,</hi> (a civill curteſie which he much deſired before his death) and entred the <hi>Vault</hi> where his <hi>Predeceſſors</hi> had been uſually inter<g ref="char:EOLhyphen"/>red;
+<pb n="88" facs="tcp:115130:55"/>Some of thoſe inſolent and inhumane Souldiers, upon opening of the Monument, wherein diverſe Bodies lay wrapt in lead, intending (it ſeemes) to diſcover their barba<g ref="char:EOLhyphen"/>riſme in the higheſt meaſure, for<g ref="char:EOLhyphen"/>bore not only to cut away the lead wherein thoſe Bodies were infol<g ref="char:EOLhyphen"/>ded, but to pull off the very haire (O matchleſſe impiety!) which grew upon their Scalps; whereof diverſe among them, made them <hi>Hat-bands</hi> and <hi>Bracelets,</hi> which they no leſſe contemptibly then diſgracefully wore; glorying (as it ſeemes) in their pillage of thoſe native remains and Orna<g ref="char:EOLhyphen"/>ments of the dead. This they did in a deſpite and grounded hate to his <hi>Family,</hi> after ſuch time as they had acted their cruell tragedy. O inexemplary fury! If ſuch brutiſh ſpirits be not timely ſubdued; <hi>England</hi> will loſe both name and nature, and become <hi>Barbarian.</hi> If the <hi>Memorials</hi> of the <hi>Dead;</hi> thoſe
+<pb n="89" facs="tcp:115130:55"/>
+               <hi>laſt houſes,</hi> their <hi>
+                  <g ref="char:V">Ʋ</g>rns,</hi> may not be ſecured from violence; what ſafe<g ref="char:EOLhyphen"/>ty may <hi>Civill ſocieties</hi> preſume to have! Exceptions are eaſily taken by a <hi>Conquering hand;</hi> nay, preſſed before occaſion offered. If re<g ref="char:EOLhyphen"/>venge be ſo implacable as it cannot finde ſatisfaction upon Earth; but it muſt dive into the Earth to ap<g ref="char:EOLhyphen"/>peaſe it; in what a ſecureleſſe con<g ref="char:EOLhyphen"/>dition be thoſe placed, who ſtan<g ref="char:EOLhyphen"/>ding in defence of their Countries honour, and Title of a Soveraigne, expoſe themſelves to their over<g ref="char:EOLhyphen"/>ſivelling power, who ſtand at di<g ref="char:EOLhyphen"/>ſtance with the ſtile of Soveraignty: and pronounce all ſuch loyall af<g ref="char:EOLhyphen"/>fected hearts their <hi>profeſt Enemies,</hi> who hold the contrary?</p>
+            <p>It is reported of that magnani<g ref="char:EOLhyphen"/>mous <hi>Semiramis,</hi> amongſt many other memorable Obſervances, that ſhe cauſed this Inſcription to be written upon her Monument. <hi>Whoſoever he be that ſhall come this way, and by his repaire to this place,
+<pb n="90" facs="tcp:115130:56"/>ſhall digge up this Monnment; let him be confident of finding an infinite maſſe of Treaſure under it.</hi> It was the fortune of Victorious <hi>Cyrus</hi> to arrive there; and ſeeing this In<g ref="char:EOLhyphen"/>ſcription, he accounted himſelfe happy in the purchaſe of ſuch a Booty. Having then commanded the Tombe to be open'd and ſearch'd to the bottome; He found no Treaſure (as he expected) under it, but this wholſome reproof ſub<g ref="char:EOLhyphen"/>ſcribed: <hi>None but wretched world<g ref="char:EOLhyphen"/>lings, whoſe thoughts are cemented to earth, would rake into the aſhes of the Dead.</hi> This could not chuſe but nettle <hi>Cyrus</hi> to be ſo deluded: yet cauſed he this<note n="†" place="bottom">Miles crat, qui unam bracteolam furtìm ſur<g ref="char:EOLhyphen"/>ripuit; quo reperto, contumelioſae mortis paenas luit. ib. in Annal. perſ. apud <hi>Polib.</hi>
+               </note> Monument to be decently repaired; without ex<g ref="char:EOLhyphen"/>preſſion of the leaſt violence upon the Aſhes of this <hi>Semiramis;</hi> in revenge of ſo maine an affront. He made good uſe of her admonition;
+<pb n="91" facs="tcp:115130:56"/>preferring it (as he after profeſſed) before all that maſſe of Treaſure which he expected under it. And was not this more commendable in an Heathen, then for a malicious Chriſtian, who purſues nothing more eagerly then <hi>revenge,</hi> to lay his abuſive hand upon the <hi>pious re<g ref="char:EOLhyphen"/>maines</hi> of the Dead? Theſe ſhould rather have been motives to Mor<g ref="char:EOLhyphen"/>tification, then occaſions of pillage. But what ſmall correſpondency holds the furious hand of a Souldier with the practice of piety! we will here leave him to better times, to reclaime him.</p>
+            <p>After all theſe proceedings, ſwolne as high as enmity could make them; it will not be amiſſe if we make one ſtep to the <hi>Houſe</hi> of <hi>Commons,</hi> (for that's the <hi>Del<g ref="char:EOLhyphen"/>phick Comitiall</hi> that cuts <hi>both wayes</hi>) and obſerve what counte<g ref="char:EOLhyphen"/>nance is ſhewn there upon relation of this <hi>action,</hi> being done (as was pretended) without order or
+<pb n="92" facs="tcp:115130:57"/>direction from the Houſe.</p>
+            <p>You may underſtand then that a Letter came to the <hi>Houſe</hi> from that <hi>continuing Conquerour</hi> upon the ſurrender of COLCHESTER; intimating, that partly for <hi>Revenge</hi> (a reaſon that in diſcretion might have been omitted) and partly to make ſatisfaction to the <hi>Towne</hi> and <hi>Country</hi> (yet ſought by neither of them) he had executed a piece of <hi>Military Juſtice</hi> (as he call'd it) upon Sir CHARLES LUCAS and Sir GEORGE LISLE and cauſed them to be ſhot to death: But that he had given the Lords and many others Quarter for life; only he referred them to the <hi>Mercy</hi> of the <hi>Parliament,</hi> (marke this <hi>con<g ref="char:EOLhyphen"/>gruity,</hi> firſt <hi>Life,</hi> and then <hi>Mercy:</hi>) Upon reading thereof, up ſtood a reſolute <hi>Gentleman,</hi> &amp; ſaid, Mr. <hi>Spea<g ref="char:EOLhyphen"/>ker, I for my part know</hi> (whatſoever is pretended otherwiſe in this Let<g ref="char:EOLhyphen"/>ter) <hi>that, neither the</hi> Towne <hi>nor</hi> Country <hi>deſired any ſeverity towards
+<pb n="93" facs="tcp:115130:57"/>thoſe Gentlemen, nor do they receive any content or ſatisfaction in it; and therefore I ſuppoſe this pretence of Juſtice was wholly an Act of Revenge: and I fear, out of a more private con<g ref="char:EOLhyphen"/>ſideration, then publique.</hi>
+            </p>
+            <p>To this no <hi>Reply</hi> was made but Frownes and foule lookes; imply<g ref="char:EOLhyphen"/>ing their diſguſt: And yet another <hi>Gentleman</hi> was ſo bold as to ſtand up and ſay, He was <hi>of opinion that the executing theſe two Knights now, was done on purpoſe to put an affront upon the Treaty, and to grieve and ex<g ref="char:EOLhyphen"/>aſperate His Majeſty.</hi>
+            </p>
+            <p>But for fear honeſty ſhould grow too confident, and by that meanes, more incouraged to ſpeake then they were willing to hear; a de<g ref="char:EOLhyphen"/>bate was immediately reſumed, which way to diſpoſe of, and pro<g ref="char:EOLhyphen"/>ceed againſt thoſe Lords, and the reſt, that were rendred to the <hi>Mer<g ref="char:EOLhyphen"/>cy</hi> of the <hi>Houſes;</hi> And to clear the coaſt of all thoſe <hi>Lords</hi> and <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> up ſtood <hi>Dennis Bond,</hi> and
+<pb n="94" facs="tcp:115130:58"/>after him pragmaticall <hi>Prideaux,</hi> to ſecond his <hi>zealous Brother</hi> in a Motion of ſuch <hi>bloody</hi> importance: A brace of <hi>thriving Tarriers,</hi> who had gain'd more ſince the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> began, then all their <hi>Predeceſ<g ref="char:EOLhyphen"/>ſors</hi> put them together, injoyed be<g ref="char:EOLhyphen"/>fore them. This pretious paire of <hi>State-ſoaking Senators</hi> moved, <hi>that thoſe</hi> Lords <hi>and</hi> Gentlemen <hi>might be referred back againe to the</hi> Gene<g ref="char:EOLhyphen"/>rall, <hi>to be tryed and executed by a Councell of War.</hi> To this Sence the whole <hi>Kennell</hi> of the <hi>fiery-faction</hi> mouthed it; not ſtanding at all upon any conſiderations of <hi>Honour</hi> or <hi>Reaſon</hi> (being both drenched in paſ<g ref="char:EOLhyphen"/>ſion) and had carried it, but that others leſſe thirſty after blood, and better ſetled in their <hi>Wits,</hi> moved, that the <hi>General's</hi> Letter might be read over againe; which being done, it was urged, that ſeeing <hi>He had given them Quarter for life, it could not be either for the honour of the</hi> Army <hi>to take it away, or of the</hi>
+               <pb n="95" facs="tcp:115130:58"/>Houſe <hi>to require it.</hi> And ſo in the end it was concluded with much adoe, that they <hi>ſhould not be proceeded a<g ref="char:EOLhyphen"/>gainst by a Councell of War, but by way of Impeachment.</hi> Then they ſpent a deale of time in wrangling about the names of the perſons to be <hi>Impeached;</hi> and for that time, they agreed upon none, but the three Lords, <hi>Norwich, Capel,</hi> and <hi>Loughborrow.</hi>
+            </p>
+            <p>Theſe proceedings, becauſe for<g ref="char:EOLhyphen"/>merly touched, we have with more brevity contracted. It ſhall be now our <hi>Evening taske</hi> to continue their living Memories in an <hi>Elegy:</hi> though theit Actions were ſuch ſurviving Lines, as poſterities ſhall ſooner ſurceaſe to be, then they periſh in the memories of po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>For <hi>'Nobility,</hi> when it reflecteth on it ſelfe; and retaines that prio<g ref="char:EOLhyphen"/>rity of <hi>goodneſſe,</hi> which it challen<g ref="char:EOLhyphen"/>geth by <hi>Diſcent,</hi> or <hi>perſonall deſert:</hi> holding that honour but a tinſell
+<pb n="96" facs="tcp:115130:59"/>luſtre, which from vertue derives not her ſplendor; becomes an ob<g ref="char:EOLhyphen"/>ject of admiration to inferiour <hi>Eyes.</hi>
+            </p>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:115130:59"/>
+            <head>To the living Me<g ref="char:EOLhyphen"/>mories of thoſe Two Heroick Knights, Sir <hi>CAHRLES L<g ref="char:V">Ʋ</g>CAS,</hi> AND Sir <hi>GEORGE LISLE.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <hi>Whoſe approved Valour renown'd them living, and impal'd them dying with Honour.</hi>
+               </q>
+            </epigraph>
+            <lg>
+               <head>AN ELEGIE.</head>
+               <l>BRave Loyall paire, whoſe <hi>active worth</hi> was ſuch,</l>
+               <l>No pen nor pencil can performe too much</l>
+               <l>To crowne your Mem'ries: — this it was to gaine</l>
+               <l>Fame by your proweſſe, though you miſt your aime</l>
+               <l>At long-beleagred-famiſh'd <hi>Colcheſter;</hi>
+               </l>
+               <l>Expecting aid that ne're approached there.</l>
+               <pb facs="tcp:115130:60"/>
+               <l>Your Noble thoughts did ever ſet their reſt</l>
+               <l>On Princely ends, no private intereſt.</l>
+               <l>Your care was how to cure, and to reſtore</l>
+               <l>This <hi>Phrentick State</hi> to th'Wits it had be<g ref="char:EOLhyphen"/>fore.</l>
+               <l>Your taske was how your <hi>Caeſar</hi> might be ſhowne,</l>
+               <l>Not in a <hi>Grate</hi> but on His <hi>Reyall Throne.</hi>
+               </l>
+               <l>You could not <hi>hugge</hi> the <hi>Time</hi> as many do,</l>
+               <l>Whoſe <hi>cringing garbe</hi> may worke their overthrow.</l>
+               <l>You ſcorn'd <hi>perfidious Juncto's,</hi> who doe make</l>
+               <l>Vſe of the <hi>State</hi> to <hi>nim</hi> away the <hi>Stake.</hi>
+               </l>
+               <l>Your <hi>conſcientious waies</hi> abjur'd ſuch men</l>
+               <l>As wiſh an end to <hi>Treaties,</hi> God knowes when:</l>
+               <l>And ſuch ſly ſpinning Rookes we have no doubt,</l>
+               <l>Who <hi>ſeeke</hi> nought leſſe then what they go about.</l>
+               <l>Your hearts were ſweetly temp'red with pure zeale</l>
+               <l>To your indeared Prince and Common<g ref="char:EOLhyphen"/>weale;</l>
+               <l>This made <hi>Death</hi> your <hi>advantage;</hi> and ſtruck feares</l>
+               <l>I'th' boſomes of your Executioners</l>
+               <l>With ſuch compaſtion, they could ſcarce forbeare</l>
+               <l>From rinſing their Death-Bullets with a teaſe.</l>
+            </lg>
+            <pb facs="tcp:115130:60"/>
+            <lg>
+               <l>Hear thou, <hi>inſulting Senat,</hi> whoſe deſire</l>
+               <l>Is with freſh fuell to increaſe a fire</l>
+               <l>In this <hi>imbroiled State!</hi> Hear what a brand</l>
+               <l>Thy quenchleſs rage has brought upon this Land,</l>
+               <l>When Loyalty muſt <hi>ſuffer,</hi> and become</l>
+               <l>A <hi>Law-convicted perſon</hi> by thy doome!</l>
+               <l>When <hi>awfull fury</hi> muſt ſuppreſs the <hi>good,</hi>
+               </l>
+               <l>
+                  <hi>Wrath</hi> cenſure <hi>worth,</hi> and <hi>guilt</hi> ſhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>guilt<g ref="char:EOLhyphen"/>leſſe blood!</hi>
+               </l>
+               <l>When <hi>juſt Allegeance</hi> muſt at <hi>Bar</hi> appear,</l>
+               <l>And ſtand <hi>condemn'd</hi> becauſe a <hi>Cavaliere!</hi>
+               </l>
+               <l>Who is he then values his vading breath</l>
+               <l>At ſuch a rate as not to <hi>court</hi> pale Death,</l>
+               <l>Rather then groane in this tyrannick Age,</l>
+               <l>Where <hi>Invocence</hi>'s a <hi>Sacrifice</hi> to <hi>rage;</hi>
+               </l>
+               <l>Where <hi>Mercy</hi> becomes <hi>Cruelty:</hi> And <hi>Shame</hi>
+               </l>
+               <l>Hath loſt both <hi>native colour</hi> and her <hi>Name?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O Gallant Loyall Souls, thrice bleſt be you</l>
+               <l>Who have pay'd <hi>Nature</hi> and your <hi>Caeſars</hi> due!</l>
+               <l>From our State ſtalkers ye ſecured are,</l>
+               <l>And with a <hi>Land</hi> of <hi>Peace</hi> exchang'd your War.</l>
+               <l>The <hi>Lord</hi> of <hi>Hoaſts</hi> will on his <hi>Hoaſt</hi> be<g ref="char:EOLhyphen"/>ſtow</l>
+               <l>This <hi>peacefull plot</hi> while <hi>Rcbels</hi> march be<g ref="char:EOLhyphen"/>low.</l>
+               <l>For if <hi>Rebellion</hi> ſafely get a ſhore,</l>
+               <l>It is a <hi>paſſage</hi> never knowne before.</l>
+            </lg>
+            <pb facs="tcp:115130:61"/>
+            <p>THeir <hi>Anniverſaries</hi> are inten<g ref="char:EOLhyphen"/>ded to be continued; that the <hi>Actions</hi> of <hi>Loyall Subjects</hi> may be to ſucceeding times, for <hi>living pat<g ref="char:EOLhyphen"/>terns,</hi> recommended.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:115130:61"/>
+            <head>A TABLE, Briefly containing, and Methodically directing, to the principall points and paſſages of this Tragicall Diſcourſe.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">A</seg>N Introduction to the Story. <hi>Pag. 1.</hi>
+               </item>
+               <item>The Ingratitude of ſome Countries to their Loy<g ref="char:EOLhyphen"/>all'ſt friends. <hi>p. 2.</hi>
+               </item>
+               <item>The <hi>Cynicks</hi> ſcoffe to the <hi>Mindians. p. 3.</hi>
+               </item>
+               <item>Sir CHARLES L<g ref="char:V">Ʋ</g>CAS, his Family, Education, Dispoſition, Experience and Diſcipline in Martiall affaires. <hi>p. 5, 6, 7.</hi>
+               </item>
+               <pb facs="tcp:115130:62"/>
+               <item>His Loyall expreſſes in all Societies. <hi>ib.</hi>
+               </item>
+               <item>His vindication for too much Seve<g ref="char:EOLhyphen"/>rity. <hi>p. 8.</hi>
+               </item>
+               <item>The redreſſe and relief of our moſt gratious Soveraigne, his long re<g ref="char:EOLhyphen"/>ſtrained Maſter, the Object of his Valour. <hi>p. 9.</hi>
+               </item>
+               <item>The reaſon why NORWICH, CAPEL and LO<g ref="char:V">Ʋ</g>GH<g ref="char:EOLhyphen"/>BOROW, &amp;c. with theſe two gadant Gentlemen, ſtruck into COLCHESTER: being a Towne ſo inconſiderable, and in judgement ſo intenible: With a reaſon of the omiſſion of thoſe dif<g ref="char:EOLhyphen"/>ficulties, in their paſſage over the River into ESSEX. <hi>p. 11.</hi>
+               </item>
+               <item>Who was the principall Agitator for their Recruits, whilst the GE<g ref="char:EOLhyphen"/>NERAL with his Army lay before COLCHESTER. <hi>p. 12.</hi>
+               </item>
+               <item>How the Enemies too liberall ſeeding redounded to their prejudice. <hi>p. 12.</hi>
+               </item>
+               <item>Thoſe in whom the Royalists moſt
+<pb facs="tcp:115130:62"/>confided; not only deſerted them, but became Beſiegers of them. <hi>p. 14.</hi>
+               </item>
+               <item>Their juſt reproof. <hi>p. 15.</hi>
+               </item>
+               <item>The conſequent miſeries of a continu<g ref="char:EOLhyphen"/>ed Siege. <hi>p. 16.</hi>
+               </item>
+               <item>The Surrender of the Towne, after three Moneths Siege; upon theſe ſtrict conditions: <hi>The Superior Officers</hi> to Mercy (an expreſſewrit in letters of blood) and the <hi>Souldie ry</hi> upon Quarter for life. <hi>p. 17.</hi>
+               </item>
+               <item>Two maine reaſons why they retarded their Surrender.
+<list>
+                     <item>
+                        <hi>1.</hi> The Ingagements of theſe adjacent Counties.</item>
+                     <item>
+                        <hi>2.</hi> The hopes they had of re<g ref="char:EOLhyphen"/>lief abroad; manifeſted by a Let<g ref="char:EOLhyphen"/>ter from a perſon of quality and Honour. <hi>p. 18, 20.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>The Letter ſincerely tranſcribed after the Originall Copie. <hi>p. 21, 22, 23, 24.</hi>
+               </item>
+               <item>That long debate of the <hi>Scottiſh</hi> Ar<g ref="char:EOLhyphen"/>my with the <hi>Pesbyterian Clergy,</hi> by protracting their March, de<g ref="char:EOLhyphen"/>prived the Beſieged Party at COLCHESTER all hope of
+<pb facs="tcp:115130:63"/>relief. Which relief could not have been ſo long a wanting: if the <hi>Scotch</hi> Generals zeale and allacri<g ref="char:EOLhyphen"/>ty to ſo gallant a Service, had not been retarding. <hi>p. 27.</hi>
+               </item>
+               <item>The Peſantry of that Nation in a bet<g ref="char:EOLhyphen"/>ter capacity to <hi>feed</hi> then <hi>fight. p. 28.</hi>
+               </item>
+               <item>Plundering their onely Maſter-piece. <hi>ibid.</hi>
+               </item>
+               <item>Duke HAMILTONS por<g ref="char:EOLhyphen"/>traicture in a brief Character. As it has been ever his guize to walke in a Cloud, ſo hath a black Cloud hung ever upon all his de<g ref="char:EOLhyphen"/>ſignes: manifeſted by his ill ſucceſſe both at home and abroad. <hi>p. 29.</hi>
+               </item>
+               <item>His contempt at <hi>Caſtrene;</hi> his late defeate at <hi>Preſton:</hi> his reproach in every Nation. <hi>ib.</hi>
+               </item>
+               <item>He <hi>colourably</hi> profeſt love to the <hi>King,</hi> but really to his <hi>Crowne;</hi> confirm'd by his Lieutenant Gene<g ref="char:EOLhyphen"/>rals expreſſe. <hi>p. 31.</hi>
+               </item>
+               <item>This laſt action no leſſe accompanied with diſloyalty then puſillanimity:
+<pb facs="tcp:115130:63"/>As will ſhortly come to light upon Sir MARMAD<g ref="char:V">Ʋ</g>KE LANGDALES Declara<g ref="char:EOLhyphen"/>tion. <hi>p. 37, 38.</hi>
+               </item>
+               <item>Honest and integrious breaſts were ever held the Princes choiceſt Guardians. <hi>p. 39.</hi>
+               </item>
+               <item>Ambitious minds make private ends their onely aimes. <hi>ib.</hi>
+               </item>
+               <item>HAMILTON, ſince his Cow<g ref="char:EOLhyphen"/>ardly defeat, but Courtly reſtraint at ASHBY-DELA<g ref="char:EOLhyphen"/>ZO<g ref="char:V">Ʋ</g>CH, is ontertained more like a <hi>Prince</hi> then a <hi>Priſoner:</hi> be<g ref="char:EOLhyphen"/>ing furniſhed with all accommoda<g ref="char:EOLhyphen"/>tions, even to his Buffoun H<g ref="char:V">Ʋ</g>GH PETERS; a ſutable <hi>Patterne</hi> for ſuch a <hi>Patron</hi> in Principles of Religion. <hi>p. 36.</hi>
+               </item>
+               <item>Perſons who have the extenſiv'st aimes; for moſt part loſe the Game either by ſhooting <hi>too far over,</hi> or <hi>too far ſhort</hi> of their <hi>Marke. p. 32.</hi>
+               </item>
+               <item>The Dukes Solicitous Agency by <hi>Lauderdale</hi> to bring the Prince to
+<pb facs="tcp:115130:64"/>the head of the Army: whoſe pre<g ref="char:EOLhyphen"/>ſence, contrary to the Dukes ex<g ref="char:EOLhyphen"/>pectance, might have turn'd the ſtreame of his treacherous deſignes. <hi>p. 38, 39.</hi>
+               </item>
+               <item>But a Princes riſing hopes to fall upon ſuch an haazard, could not be pro<g ref="char:EOLhyphen"/>bably ſecure, where men account no otherwiſe of Allegeance, then of a politick pretence to obtaine their ends. <hi>p. 39.</hi>
+               </item>
+               <item>To gratifie our <hi>Senat,</hi> of whom he held in <hi>Capite</hi> for his Liberty from PENDENNIS CASTLE; he meanes for his owne ſecurity to make a diſcovery of all ſuch as in<g ref="char:EOLhyphen"/>vited him hither: which, if it beget in ſome of our guilty Senators a fever: A courſe is taken to cruſh this Deſigne in the ſhell. A Com<g ref="char:EOLhyphen"/>mittee of their own Synodall muſt be ſent downe preſently: and take his Examination privately. The <hi>Conſuls</hi> muſt appeare no Inviters: Only ſome <hi>well cramm'd Royal<g ref="char:EOLhyphen"/>liſts</hi> for want of an Advocate, muſt
+<pb facs="tcp:115130:64"/>be ſqueez'd for example ſake. <hi>p. 36</hi>
+               </item>
+               <item>The Duke with his Fugitives though Invaders, by a late <hi>Ordinance</hi> in favour of their Nation, exempted from Treaſon. Diſturbers, no Trai<g ref="char:EOLhyphen"/>tors. <hi>p. 37.</hi>
+               </item>
+               <item>The Duke ſecure <hi>enough;</hi> being all he deſireth upon Earth but a <hi>Crown. ib.</hi>
+               </item>
+               <item>The Definition and Deſcription of CALIDON, according to our antient <hi>Chronologers. p. 38.</hi>
+               </item>
+               <item>Loyall Subjects are <hi>Antipodes,</hi> to theſe <hi>Scottiſh ſtraglers. p. 41.</hi>
+               </item>
+               <item>A ſurvey of the gallant ſervice done by Sir CHARLES L<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>CAS, and Sir GEORGE LISLE during theſe Civill Wars, in ſeverall places; As, N<g ref="char:V">Ʋ</g>B<g ref="char:V">Ʋ</g>RY, CAWOOD Caſtle, MARSTON Moore, NEWARKE, SLYM<g ref="char:EOLhyphen"/>BRIDGE and BEVER<g ref="char:EOLhyphen"/>STON <hi>Caſtle;</hi> TEDB<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>RY. His ſingle Ingage near S<g ref="char:V">Ʋ</g>NDERLAND by that Lieu<g ref="char:EOLhyphen"/>tenant
+<pb facs="tcp:115130:65"/>Generall of the <hi>Scottiſh</hi> Horſe, and with what Honour he came off. <hi>p. 41, 42, 43.</hi>
+               </item>
+               <item>Sir GEORGE'S brave deport<g ref="char:EOLhyphen"/>ment in his ingage at BRAM<g ref="char:EOLhyphen"/>DEANE <hi>Heath.</hi> His gallant demeanure betwixt NEWB<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>RY and SPINE. His ſeve<g ref="char:EOLhyphen"/>rall <hi>Field-words</hi> or <hi>Impreze's:</hi> what terror he ſtruck in the Ene<g ref="char:EOLhyphen"/>my; by his Valour and Diſcipline routing them utterly. <hi>p. 44.</hi>
+               </item>
+               <item>His March to the face of the Enemy in his Shirt; partly to animate his Men by his Valour: partly to give them better direction (being dark) by diſtinction of his habit. <hi>p. 45.</hi>
+               </item>
+               <item>What fear the Enemy was in; and in what diſorder, has been already publiſhed by their own relators. <hi>ib.</hi>
+               </item>
+               <item>Sir GEORGE'S care and com<g ref="char:EOLhyphen"/>paſſion of weake wounded Souldi<g ref="char:EOLhyphen"/>ers; whether they were his own Men, or his Priſoners; as appea<g ref="char:EOLhyphen"/>red after the laſt NEWB<g ref="char:V">Ʋ</g>RY Fight, in his proviſion for them:
+<pb facs="tcp:115130:65"/>With the pittileſſe uſage which the revenging Enemy afterwards ſhewed them. <hi>p. 47.</hi>
+               </item>
+               <item>The Enemies entring into COLCHESTER. <hi>p. 48.</hi>
+               </item>
+               <item>IRETON that Meſſenger of <hi>Ire,</hi> imploy<g ref="char:EOLhyphen"/>ed to bring them Newes of their Death. <hi>p. 49.</hi>
+               </item>
+               <item>The reaſons that induced <hi>Ireton</hi> to importune the <hi>Generall</hi> ſo ſolicitouſly for their di<g ref="char:EOLhyphen"/>ſpatch. <hi>p. 50.</hi>
+               </item>
+               <item>The <hi>Generall</hi> reflects upon two Objects in this Action <hi>revenge</hi> &amp; <hi>honour:</hi> Revengepricks him on; but honour draws him off. <hi>p. 52.</hi>
+               </item>
+               <item>
+                  <hi>Ireton</hi> purſues his Moives, and prevailes. <hi>ib.</hi>
+               </item>
+               <item>Objections produced and preſſed againſt Sir CHARLES
+(but never till, he was di<g ref="char:EOLhyphen"/>ſpatched) evinced and cleared. <hi>p. 55, 56, 57, 58.</hi>
+               </item>
+               <item>A ſingular unpreſidentall forme of Juſtice, to ſentence a petended Delinquent firſt, and ac<g ref="char:EOLhyphen"/>cuſe him after. <hi>p. 60.</hi>
+               </item>
+               <item>The like Objections (equally frivolous as the former) preſſed againſt Sir GEORGE, anſwered and cleared. <hi>p. 61.</hi>
+               </item>
+               <item>His undaunted ſpirit <hi>dignifi'd</hi> his <hi>Fami<g ref="char:EOLhyphen"/>ly:</hi> raiſing his worth above the reach of <hi>ca<g ref="char:EOLhyphen"/>lumny. p. 62, 63.</hi>
+               </item>
+               <item>A juſt defcate of Colonell FAR in his pro<g ref="char:EOLhyphen"/>ceedings and propoſols to his <hi>Traine-bands. p. 66.</hi>
+               </item>
+               <item>The grounds of thoſe complaints offered to
+<pb facs="tcp:115130:66"/>both <hi>Houſes</hi> by the County of ESSEX. Petitions preſented by remiſſe ſpirits, are ſatisfied with <hi>Thankes. p. 57.</hi>
+               </item>
+               <item>Their Civility ſhewn to Sir BERNARD GASCOINE an <hi>Italian,</hi> in reprie<g ref="char:EOLhyphen"/>ving him, deſervingly approved: but their execution of cruelty in <hi>Cold-blood,</hi> highly condemned. <hi>p. 68.</hi>
+               </item>
+               <item>Their ſolemne joynt Proteſt not to deſert one another: atteſted and Signed, <hi>23 Aug. 1648. p. 69.</hi>
+               </item>
+               <item>How their Reſolution by <hi>Spirits</hi> of contradi<g ref="char:EOLhyphen"/>ction, fomenters of jealouſies and diviſions, became diverted. <hi>p. 70, 71, 72.</hi>
+               </item>
+               <item>He deſcends to the laſt <hi>Sceane</hi> of this <hi>Tragick</hi> Act. An Act of <hi>Honour</hi> to the <hi>Sufferers;</hi> of <hi>Horror</hi> to the <hi>Actors. p. 74.</hi>
+               </item>
+               <item>Theſe two gallant Gentlemen, after ſuch incom<g ref="char:EOLhyphen"/>parable Expreeſſs of their vowed Loyalty; adjudg'd to die; the One within the Ken of his owne Family: The other before Thoſe who had amply taſted of his bounty and cle<g ref="char:EOLhyphen"/>mency.</item>
+               <item>Sir CHARLES demands by what <hi>Au<g ref="char:EOLhyphen"/>thority They</hi> were adjudg'd to dye? <hi>Ireton</hi> replies, by <hi>Ordinance</hi> of <hi>Parliament:</hi> Sir CHARLES his diſcreet Anſwer to that Reply. <hi>p. 57.</hi>
+               </item>
+               <item>Sir CHARLES deſires ſo much civill curteſie that they might live till next morning; in re<g ref="char:EOLhyphen"/>ſpect of their Addreſſes to heaven, &amp; diſpo<g ref="char:EOLhyphen"/>ſure of their affaires upon Earth. Which was
+<pb facs="tcp:115130:66"/>denied him, his brave Anſwer to that unci<g ref="char:EOLhyphen"/>vile deniall. <hi>p. 75, 76.</hi>
+               </item>
+               <item>IRETON preſents him with the <hi>Gene<g ref="char:EOLhyphen"/>rals Chaplains</hi> for his better preparation: But he craves the Lord CAPELS Chap<g ref="char:EOLhyphen"/>laine may be admitted to him for his <hi>Spiri<g ref="char:EOLhyphen"/>tuall helpe,</hi> which is granted him. <hi>p. ib.</hi>
+               </item>
+               <item>
+                  <hi>Ireton, Rainsborough,</hi> and <hi>Whaly</hi> Specta<g ref="char:EOLhyphen"/>tors of their Death. An uſefull caveat to Miniſters of cruelty. Divine Juſtice may <hi>ſleepe,</hi> but cannot <hi>ſlip.</hi> Gods Judgement upon <hi>Rainsborough. p. 77.</hi>
+               </item>
+               <item>THEIR Words, reſolution and poſture at their Deaths. <hi>p. 78, 79, 80, 81.</hi>
+               </item>
+               <item>Sir GEORGE beholding the ſad ſpecta<g ref="char:EOLhyphen"/>cle of the dead Body of his in deared Friend, fals upon it and kiſſeth it. <hi>p. 79.</hi>
+               </item>
+               <item>His gallant expreſſions before his Death. <hi>p. 80, 81.</hi>
+               </item>
+               <item>A Gentlemans teſtimony of quality and known Diſcipline, touching their Chriſtan courage and cariage at their Deaths. <hi>p. 79.</hi>
+               </item>
+               <item>Both their Characters in briefe: Sir CHARLES was accounted as eminent in his Command of Horſe, as the moſt experienc'd Commander in <hi>Europe:</hi> And Sir GEORGE a moſt obliging Commander for the <hi>Infantry. p. 82, 83.</hi>
+               </item>
+               <item>
+                  <hi>His Majeſties</hi> Princely-compaſſion upon the newes of their Deaths: accounted effemi<g ref="char:EOLhyphen"/>nary by that ſcurrilous <hi>Hebrew Intelligen<g ref="char:EOLhyphen"/>cer:</hi> but a Roiall teſtimony of affection,
+<pb facs="tcp:115130:67"/>ballanced by equall judgements, confirm'd by Authors Divine and Hnmane. <hi>p. 83, 84, 85.</hi>
+               </item>
+               <item>The ſcornefull ſalute of that <hi>Conquereſſe</hi> to a Gentleman, being a COLCHESTER Priſoner and Petitioner to the <hi>Generall</hi> for his <hi>Parol. p. 86.</hi>
+               </item>
+               <item>A violation of Sepulchers by their Souldiers inhumanely practiſed: by the Heathens ab<g ref="char:EOLhyphen"/>horred. Inſtanced in <hi>Semiramis</hi> and <hi>Cy<g ref="char:EOLhyphen"/>rus</hi> his Juſtice upon a Souldier for his in<g ref="char:EOLhyphen"/>jurious plunder. <hi>Annal. Polib. p. 89, 90.</hi>
+               </item>
+               <item>A LETTER from his <hi>Excellence</hi> to the <hi>Houſe</hi> touching the Surrender of COL<g ref="char:EOLhyphen"/>CHESTER, and the Execution of thoſe two Gentlemen: with his conditions to the Lords and other Priſoners: How it was entertained, debated and carried. <hi>p. 91, 92, 93, 94, 95.</hi>
+               </item>
+               <item>Their concluſion, for <hi>Norwich, Capel,</hi> and <hi>Loughborow</hi> to be impeached. <hi>p. ib.</hi>
+               </item>
+               <item>A <hi>Funerall Elegie</hi> to the living memory of thoſe two Gentlemen; who were an honour to their Country, for their conſtant reſolu<g ref="char:EOLhyphen"/>tions, diſcipline and fidelity. <hi>ult.</hi>
+               </item>
+               <item>An Advertiſement of the continuation of their Anniverſaries. <hi>ib.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:115130:67"/>
+         </div>
+      </back>
+   </text>
+</TEI>
